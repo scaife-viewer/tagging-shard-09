@@ -1,0 +1,97 @@
+1	0	1.	PUNCT	Z		1.	ROOT	0
+1	1	νεοίη	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	νεέω	advmod	3
+1	2	ὡϲ	INTJ	I-		ὡϲ	discourse	1
+1	3	ὁμοίη	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	ὅμοιος	ROOT	3
+1	4	λέγει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω	conj	3
+1	5	δὲ	ADV	Df		δέ	discourse	4
+1	6	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	7
+1	7	νεότητα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	νεότης	obj	4
+1	8	.	PUNCT	Z		.	punct	3
+1	9	οἱ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	19
+1	10	μέντοι	ADV	Df		μέντοι	discourse	19
+1	11	μετ᾿	ADP	R-		μετ᾿	case	12
+1	12	αὐτὸν	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός	obl	19
+1	13	ὡϲ	INTJ	I-		ὡϲ	discourse	19
+1	14	ἐπὶ	ADP	R-		ἐπί	case	16
+1	15	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	16
+1	16	πλεῖϲτον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πλεῖϲτος	obl	19
+1	17	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	18
+1	18	ἄνοιαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἄνοια	obj	19
+1	19	λέγουϲιν	VERB	Ne	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	λέγουϲιν	ROOT	19
+1	20	.	PUNCT	Z		.	punct	19
+1	21	περὶ	ADP	R-		περί	case	23
+1	22	δὲ	ADV	Df		δέ	discourse	24
+1	23	τῆϲ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	τῆϲ	obl	24
+1	24	λέξεωϲ	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	λέξεοϲ	ROOT	24
+1	25	εἰ	SCONJ	G-		εἰ	mark	27
+1	26	ὑγιῶϲ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	ὑγιῶϲ	dep	27
+1	27	ἐϲχήματιϲται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	ἐϲχήματιϲται	ccomp	24
+1	28	,	PUNCT	Z		,	punct	24
+1	29	ἐν	ADP	R-		ἐν	case	31
+1	30	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	31
+1	31	προτατικῷ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	προτατικός	obl	32
+1	32	ἐζήτηϲα	PROPN	Ne	Case=Nom|Gender=Neut|Number=Plur	ἐζήτηϲα	ROOT	32
+1	33	.	PUNCT	Z		.	punct	32
+2	0	2.	PUNCT	Z		2.	ROOT	0
+2	1	ποϲϲῆμαρ	PROPN	Nb	Case=Voc|Gender=Masc|Number=Sing	ποϲϲῆμαρ	vocative	3
+2	2	ὑφ᾿	ADV	R-		ὑφ᾿	case	3
+2	3	ἕν	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	εἷς	ROOT	3
+2	4	.	PUNCT	Z		.	punct	3
+2	5	προείρηται	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	προλέγω	ROOT	5
+2	6	δὲ	ADV	Df		δέ	discourse	5
+2	7	ἤδη	ADV	Df		ἤδη	advmod	5
+2	8	περὶ	ADP	R-		περί	case	10
+2	9	τῆϲ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	τῆϲ	dep	10
+2	10	λέξεωϲ	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	λέξεωϲ	obl	5
+2	11	,	PUNCT	Z		,	punct	5
+2	12	ἀλλὰ	CCONJ	C-		ἀλλά	cc	14
+2	13	καὶ	ADV	Df		καί	advmod	14
+2	14	ἐζήτητο	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Pass	ἐζήτητο	ROOT	14
+2	15	ἐν	ADP	R-		ἐν	case	16
+2	16	ταῖϲ	DET	Ne	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ταῖϲ	obl	14
+2	17	προτάϲεϲι	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	προτάϲεϲι	vocative	14
+2	18	.	PUNCT	Z		.	punct	14
+2	19	1.	PUNCT	Z		1.	ROOT	19
+2	20	3	ADV	Df		3	ROOT	20
+2	21	recepi	ADV	Df		recepi	advmod	20
+2	22	Lehrsii	ADV	V-		Lehrsii	parataxis	20
+2	23	emendationem	ADV	V-		emendationem	parataxis	20
+2	24	huius	ADV	V-		huius	parataxis	20
+2	25	loci.	PUNCT	Z		loci.	punct	20
+2	26	l.	PUNCT	Z		l.	ROOT	26
+2	27	13	ADV	Df		13	ROOT	27
+2	28	verba	ADV	Df		verba	advmod	27
+2	29	ab	ADV	V-		ab	parataxis	27
+2	30	epitomatore	ADV	V-		epitomatore	parataxis	27
+2	31	post	ADV	Df		post	parataxis	27
+2	32	ἐν	ADP	R-		ἐν	case	33
+2	33	ϲυνθέϲει	X	Ne		ϲυνθέϲε	dep	27
+2	34	inserta	CCONJ	C-		inserta	dep	27
+2	35	ἐξῃρημένου	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ἐξῃρημένου	advcl	27
+2	36	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	37
+2	37	ποδαπόϲ·	PRON	Pi	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	ποδαπόϲ·	nsubj:pass	35
+2	38	ἐπέγκειται	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	ἐπέγκειται	parataxis	27
+2	39	γὰρ	ADV	Df		γάρ	discourse	38
+2	40	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	41
+2	41	ποῖοϲ	X	F-		ποῖοϲ	nsubj:pass	38
+2	42	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	43
+2	43	δαπέδῳ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	δάπεδον	iobj	38
+2	44	expuli.	PUNCT	Z		expuli.	punct	27
+2	45	l.	PUNCT	Z		l.	punct	27
+2	46	22	ADV	Df		22	ROOT	46
+2	47	extremis	ADV	Df		extremis	advmod	46
+2	48	verbis	ADV	Df		verbis	parataxis	46
+2	49	nihil	ADV	V-		nihil	parataxis	46
+2	50	aliud	ADV	V-		aliud	parataxis	46
+2	51	signifcari	ADV	V-		signifcariς	parataxis	46
+2	52	nisi	ADV	V-		nisi	parataxis	46
+2	53	idem	ADV	V-		idem	parataxis	46
+2	54	in	ADV	V-		in	parataxis	46
+2	55	utroque	ADV	V-		utroque	parataxis	46
+2	56	libro	ADV	V-		libro	parataxis	46
+2	57	ab	ADV	V-		ab	parataxis	46
+2	58	Herodiano	ADV	V-		Herodiano	parataxis	46
+2	59	dictum	ADV	V-		dictum	parataxis	46
+2	60	esse	ADV	V-		esseς	parataxis	46
+2	61	probat	ADV	V-		probat	dep	46
+2	62	Lehrsius.	PUNCT	Z		Lehrsius.	punct	46

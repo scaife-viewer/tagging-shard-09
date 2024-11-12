@@ -1,0 +1,1722 @@
+1249	0	ἐπαινετὰ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ἐπαινετόν	ROOT	0
+1249	1	μέν	ADV	Df		μέν	discourse	0
+1249	2	ἐστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	0
+1249	3	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	4
+1249	4	καλά	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	καλός	nsubj	0
+1249	5	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	parataxis	0
+1249	6	ψεκτὰ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ψεκτός	conj	0
+1249	7	δὲ	ADV	Df		δέ	discourse	6
+1249	8	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	9
+1249	9	αἰσχρά	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	αἰσχρός	nsubj	6
+1249	10	.	PUNCT	Z		.	punct	0
+1249	11	καὶ	CCONJ	C-		καί	cc	15
+1249	12	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	14
+1249	13	μὲν	ADV	Df		μέν	discourse	15
+1249	14	καλῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	καλός	iobj	15
+1249	15	ἡγοῦνται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ἡγέομαι	ROOT	15
+1249	16	αἱ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	17
+1249	17	ἀρεταί	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	ἀρετή	nsubj	15
+1249	18	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	cc	15
+1249	19	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	23
+1249	20	δʼ	ADV	Df		δέ	discourse	23
+1249	21	αἰσχρῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	αἰσχρός	orphan	23
+1249	22	αἱ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	23
+1249	23	κακίαι	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	κακία	ROOT	23
+1249	24	.	PUNCT	Z		.	ROOT	24
+1249	25	ἐπαινετὰ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ἐπαινετὰ	ROOT	25
+1249	26	δʼ	ADV	Df		δέ	discourse	25
+1249	27	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	25
+1249	28	καὶ	CCONJ	C-		καί	cc	30
+1249	29	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	30
+1249	30	αἴτια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	αἴτιος	nsubj	25
+1249	31	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	32
+1249	32	ἀρετῶν	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	ἀρετή	nmod	30
+1249	33	καὶ	CCONJ	C-		καί	cc	30
+1249	34	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	35
+1249	35	παρεπόμενα	VERB	V-	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	παρέπομαι	conj	30
+1249	36	ταῖς	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	37
+1249	37	ἀρεταῖς	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	ἀρετή	iobj	35
+1249	38	καὶ	CCONJ	C-		καί	cc	30
+1249	39	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	40
+1249	40	γινόμενα	VERB	V-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	γίγνομαι	conj	30
+1249	41	ἀπʼ	ADP	R-		ἀπό	case	42
+1249	42	αὐτῶν	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός	obl	40
+1249	43	καὶ	CCONJ	C-		καί	cc	40
+1249	44	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	45
+1249	45	ἔργα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	ἔργον	conj	40
+1249	46	αὐτῶν	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός	det	45
+1249	47	,	PUNCT	Z		,	punct	25
+1249	48	ψεκτὰ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ψεκτός	ROOT	48
+1249	49	δὲ	ADV	Df		δέ	discourse	48
+1249	50	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	51
+1249	51	ἐναντία	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ἐναντίος	nsubj	48
+1249	52	.	PUNCT	Z		.	punct	48
+1249	53	τριμεροῦς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	τριμερής	xcomp	57
+1249	54	δὲ	ADV	Df		δέ	discourse	60
+1249	55	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	56
+1249	56	ψυχῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ψυχή	nsubj	57
+1249	57	λαμβανομένης	VERB	V-	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	λαμβανομένη	advcl	60
+1249	58	κατὰ	ADP	R-		κατά	case	59
+1249	59	Πλάτωνα	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	Πλάτων	obl	57
+1249	60	,	PUNCT	Z		,	det	64
+1249	61	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	64
+1249	62	μὲν	ADV	Df		μέν	discourse	64
+1249	63	λογιστικοῦ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	λογιστικός	nmod	64
+1249	64	ἀρετή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀρετή	ROOT	64
+1249	65	ἐστιν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	64
+1249	66	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	67
+1249	67	φρόνησις	NOUN	Ne	Case=Nom|Gender=Fem|Number=Sing	φρόνησις	nsubj	64
+1249	68	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	cc	63
+1249	69	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	71
+1249	70	δὲ	ADV	Df		δέ	discourse	71
+1249	71	θυμοειδοῦς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	θυμοειδής	nmod	74
+1249	72	ἥ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	74
+1249	73	τε	CCONJ	C-		τε	cc	74
+1249	74	πραότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	πραότης	conj	64
+1249	75	καὶ	CCONJ	C-		καί	cc	74
+1249	76	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	77
+1249	77	ἀνδρεία	NOUN	Ne	Case=Nom|Gender=Fem|Number=Sing	ἀνδρεία	conj	74
+1249	78	,	PUNCT	Z		,	cc	63
+1249	79	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	81
+1249	80	δὲ	ADV	Df		δέ	discourse	81
+1249	81	ἐπιθυμητικοῦ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἐπιθυμητικός	nmod	84
+1249	82	ἥ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	84
+1249	83	τε	CCONJ	C-		τε	cc	84
+1249	84	σωφροσύνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	σωφροσύνη	ROOT	84
+1249	85	καὶ	CCONJ	C-		καί	cc	84
+1249	86	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	87
+1249	87	ἐγκράτεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἐγκράτεια	conj	84
+1249	88	,	PUNCT	Z		,	amod	95
+1249	89	ὅλης	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	ὅλος	amod	95
+1249	90	δὲ	ADV	Df		δέ	discourse	95
+1249	91	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	92
+1249	92	ψυχῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ψυχή	nmod	95
+1249	93	ἥ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	95
+1249	94	τε	CCONJ	C-		τε	cc	95
+1249	95	δικαιοσύνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	δικαιοσύνη	ROOT	95
+1249	96	καὶ	CCONJ	C-		καί	cc	95
+1249	97	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	98
+1249	98	ἐλευθεριότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἐλευθεριότης	conj	95
+1249	99	καὶ	CCONJ	C-		καί	cc	95
+1249	100	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	101
+1249	101	μεγαλοψυχία	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	μεγαλοψυχία	conj	95
+1249	102	.	PUNCT	Z		.	punct	95
+1249	103	κακία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	κακία	ROOT	103
+1249	104	δʼ	ADV	Df		δέ	discourse	103
+1249	105	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	103
+1249	106	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	108
+1249	107	μὲν	ADV	Df		μέν	discourse	108
+1249	108	λογιστικοῦ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	λογιστικός	nmod	103
+1249	109	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	110
+1249	110	ἀφροσύνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀφροσύνη	nsubj	103
+1249	111	,	PUNCT	Z		,	punct	103
+1249	112	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	114
+1249	113	δὲ	ADV	Df		δέ	discourse	114
+1249	114	θυμοειδοῦς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	θυμοειδής	ROOT	114
+1249	115	ἥ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	117
+1249	116	τε	CCONJ	C-		τε	cc	117
+1249	117	ὀργιλότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ὀργιλότης	nsubj	114
+1249	118	καὶ	CCONJ	C-		καί	cc	117
+1249	119	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	120
+1249	120	δειλία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	δειλία	conj	117
+1249	121	,	PUNCT	Z		,	det	127
+1249	122	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	124
+1249	123	δὲ	ADV	Df		δέ	discourse	124
+1249	124	ἐπιθυμητικοῦ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἐπιθυμητικός	nmod	127
+1249	125	ἥ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	127
+1249	126	τε	CCONJ	C-		τε	cc	127
+1249	127	ἀκολασία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀκολασία	ROOT	127
+1249	128	καὶ	CCONJ	C-		καί	cc	127
+1249	129	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	130
+1249	130	ἀκράτεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀκράτεια	conj	127
+1249	131	,	PUNCT	Z		,	amod	148
+1249	132	ὅλης	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	ὅλος	amod	138
+1249	133	δὲ	ADV	Df		δέ	discourse	138
+1249	134	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	135
+1249	135	ψυχῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ψυχή	nmod	138
+1249	136	ἥ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	138
+1249	137	τε	CCONJ	C-		τε	cc	138
+1249	138	ἀδικία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀδικία	nsubj	148
+1249	139	καὶ	CCONJ	C-		καί	cc	138
+1249	140	ἀνελευθεριότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀνελευθεριότης	conj	138
+1249	141	καὶ	CCONJ	C-		καί	cc	138
+1249	142	μικροψυχία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μικροψυχία	conj	138
+1249	143	.	PUNCT	Z		.	punct	138
+1249	144	ἔστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	148
+1249	145	δὲ	ADV	Df		δέ	discourse	148
+1249	146	φρόνησις	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	φρόνησις	nsubj	148
+1249	147	μὲν	ADV	Df		μέν	discourse	146
+1249	148	ἀρετὴ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀρετή	ROOT	148
+1249	149	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	150
+1249	150	λογιστικοῦ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	λογιστικός	nmod	148
+1249	151	,	PUNCT	Z		,	advmod	148
+1249	152	παρασκευαστικὴ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	παρασκευαστικός	nmod	148
+1249	153	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	156
+1249	154	πρὸς	ADP	R-		πρός	case	155
+1249	155	εὐδαιμονίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	εὐδαιμονία	obl	156
+1249	156	συντεινόντων	VERB	V-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	συντείνω	iobj	152
+1249	157	.	PUNCT	Z		.	punct	148
+1249	158	πραότης	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	πραότης	nsubj	161
+1249	159	δʼ	ADV	Df		δέ	discourse	161
+1249	160	ἐστὶν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	161
+1249	161	ἀρετὴ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀρετή	ROOT	161
+1249	162	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	163
+1249	163	θυμοειδοῦς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	θυμοειδής	nmod	161
+1249	164	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	nmod	161
+1249	165	καθʼ	ADP	R-		κατά	case	166
+1249	166	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	169
+1249	167	ὑπὸ	ADP	R-		ὑπό	case	168
+1249	168	ὀργῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ὀργή	obl	169
+1249	169	γίνονται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	γίγνομαι	acl	164
+1249	170	δυσκίνητοι	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Plur	δυσκίνητος	xcomp	169
+1249	171	.	PUNCT	Z		.	punct	161
+1249	172	ἀνδρεία	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	ἀνδρεία	nsubj	175
+1249	173	δʼ	ADV	Df		δέ	discourse	175
+1249	174	ἐστὶν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	175
+1249	175	ἀρετὴ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀρετή	ROOT	175
+1249	176	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	177
+1249	177	θυμοειδοῦς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	θυμοειδής	nmod	175
+1249	178	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	nmod	175
+1249	179	καθʼ	ADP	R-		κατά	case	180
+1249	180	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	181
+1249	181	δυσέκπληκτοί	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Plur	δυσέκπληκτος	acl	175
+1249	182	εἰσιν	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	181
+1249	183	ὑπὸ	ADP	R-		ὑπό	case	184
+1249	184	φόβων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	φόβος	obl	181
+1249	185	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	184
+1249	186	περὶ	ADP	R-		περί	case	187
+1249	187	θάνατον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	θάνατος	nmod	184
+1249	188	.	PUNCT	Z		.	punct	175
+1249	189	σωφροσύνη	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	σωφροσύνη	nsubj	192
+1249	190	δʼ	ADV	Df		δέ	discourse	192
+1249	191	ἐστὶν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	192
+1249	192	ἀρετὴ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀρετή	ROOT	192
+1249	193	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	194
+1249	194	ἐπιθυμητικοῦ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἐπιθυμητικός	nmod	192
+1249	195	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	nmod	192
+1249	196	καθʼ	ADP	R-		κατά	case	197
+1249	197	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	199
+1249	198	ἀνόρεκτοι	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	ἀνόρεκτος	xcomp	199
+1249	199	γίνονται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	γίγνομαι	ROOT	199
+1249	200	περὶ	ADP	R-		περί	case	202
+1249	201	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	202
+1249	202	ἀπολαύσεις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἀπόλαυσις	obl	199
+1249	203	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	205
+1249	204	φαύλων	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	φαῦλος	amod	205
+1249	205	ἡδονῶν	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	ἡδονή	nmod	202
+1249	206	.	PUNCT	Z		.	ROOT	206
+1249	207	ἐγκράτεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἐγκράτεια	nsubj	210
+1249	208	δʼ	ADV	Df		δέ	discourse	210
+1249	209	ἐστὶν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	210
+1249	210	ἀρετὴ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀρετή	ROOT	210
+1249	211	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	212
+1249	212	ἐπιθυμητικοῦ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἐπιθυμητικός	nmod	210
+1249	213	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	nmod	210
+1249	214	καθʼ	ADP	R-		κατά	case	215
+1249	215	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	216
+1249	216	κατέχουσι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	κατέχω	acl	213
+1249	217	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	218
+1249	218	λογισμῷ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	λογισμός	obl	216
+1249	219	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	220
+1249	220	ἐπιθυμίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἐπιθυμία	obj	216
+1249	221	ὁρμῶσαν	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ὁρμῶσαν	xcomp	216
+1249	222	ἐπὶ	ADP	R-		ἐπί	case	225
+1249	223	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	225
+1249	224	φαύλας	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	φαῦλος	amod	225
+1249	225	ἡδονάς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἡδονή	obl	221
+1249	226	.	PUNCT	Z		.	punct	210
+1249	227	δικαιοσύνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	δικαιοσύνη	nsubj	230
+1249	228	δʼ	ADV	Df		δέ	discourse	230
+1249	229	ἐστὶν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	230
+1249	230	ἀρετὴ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀρετή	ROOT	230
+1249	231	ψυχῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ψυχή	nmod	230
+1249	232	διανεμητικὴ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	διανεμητικός	appos	230
+1249	233	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	235
+1249	234	κατʼ	ADP	R-		κατά	case	235
+1249	235	ἀξίαν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ἄξιος	iobj	232
+1249	236	.	PUNCT	Z		.	punct	230
+1249	237	ἐλευθεριότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἐλευθεριότης	nsubj	240
+1249	238	δʼ	ADV	Df		δέ	discourse	240
+1249	239	ἐστὶν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	240
+1249	240	ἀρετὴ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀρετή	ROOT	240
+1249	241	ψυχῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ψυχή	nmod	240
+1249	242	εὐδάπανος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	εὐδάπαν	advmod	240
+1249	243	εἰς	ADP	R-		εἰς	case	245
+1249	244	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	245
+1249	245	καλά	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	καλός	obl	242
+1249	246	.	PUNCT	Z		.	punct	240
+1249	247	μεγαλοψυχία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μεγαλοψυχία	nsubj	250
+1249	248	δʼ	ADV	Df		δέ	discourse	250
+1249	249	ἐστὶν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	250
+1249	250	ἀρετὴ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀρετή	ROOT	250
+1249	251	ψυχῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ψυχή	nmod	250
+1249	252	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	nmod	250
+1249	253	καθʼ	ADP	R-		κατά	case	254
+1249	254	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	256
+1249	255	δύναται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	δύναμαι	acl	252
+1249	256	φέρειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	φέρω	xcomp	255
+1249	257	εὐτυχίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	εὐτυχία	obj	256
+1249	258	καὶ	CCONJ	C-		καί	cc	257
+1249	259	ἀτυχίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀτυχία	conj	257
+1249	260	καὶ	CCONJ	C-		καί	cc	257
+1249	261	τιμὴν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	τιμή	conj	257
+1249	262	καὶ	CCONJ	C-		καί	cc	257
+1249	263	ἀτιμίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀτιμία	conj	257
+1249	264	.	PUNCT	Z		.	punct	250
+1249	265	ἀφροσύνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀφροσύνη	nsubj	268
+1249	266	δʼ	ADV	Df		δέ	discourse	268
+1249	267	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	268
+1249	268	κακία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	κακία	ROOT	268
+1249	269	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	270
+1249	270	λογιστικοῦ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	λογιστικός	nmod	268
+1249	271	,	PUNCT	Z		,	dislocated	268
+1249	272	αἰτία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	αἰτία	ROOT	272
+1249	273	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	274
+1249	274	ζῆν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ζῶ	nmod	272
+1249	275	κακῶς	ADV	Df	Degree=Pos	κακῶς	advmod	274
+1249	276	.	PUNCT	Z		.	punct	272
+1249	277	ὀργιλότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ὀργιλότης	nsubj	280
+1249	278	δʼ	ADV	Df		δέ	discourse	280
+1249	279	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	280
+1249	280	κακία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	κακία	ROOT	280
+1249	281	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	282
+1249	282	θυμοειδοῦς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	θυμοειδής	nmod	280
+1249	283	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	cop	280
+1249	284	καθʼ	ADP	R-		κατά	case	285
+1249	285	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	287
+1249	286	εὐκίνητοι	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	εὐκίνητος	xcomp	287
+1249	287	γίνονται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	γίγνομαι	ROOT	287
+1249	288	πρὸς	ADP	R-		πρός	case	289
+1249	289	ὀργήν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ὀργή	obl	287
+1249	290	.	PUNCT	Z		.	punct	287
+1249	291	δειλία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	δειλία	nsubj	294
+1249	292	δʼ	ADV	Df		δέ	discourse	294
+1249	293	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	294
+1249	294	κακία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	κακία	ROOT	294
+1249	295	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	296
+1249	296	θυμοειδοῦς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	θυμοειδής	nmod	294
+1249	297	,	PUNCT	Z	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	,	advmod	294
+1249	298	καθʼ	ADP	R-		κατά	case	299
+1249	299	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	300
+1249	300	ἐκπλήττονται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	ἐκπλήσσω	ROOT	300
+1249	301	ὑπὸ	ADP	R-		ὑπό	case	302
+1249	302	φόβων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	φόβος	obl	300
+1249	303	,	PUNCT	Z		,	obl	300
+1249	304	καὶ	CCONJ	C-		καί	cc	308
+1249	305	μάλιστα	ADV	Df	Degree=Sup	μάλα	advmod	308
+1249	306	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	308
+1249	307	περὶ	ADP	R-		περί	case	308
+1249	308	θάνατον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	θάνατος	obl	303
+1249	309	.	PUNCT	Z		.	punct	300
+1249	310	ἀκολασία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀκολασία	nsubj	313
+1249	311	δʼ	ADV	Df		δέ	discourse	313
+1249	312	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	313
+1249	313	κακία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	κακία	ROOT	313
+1249	314	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	315
+1249	315	ἐπιθυμητικοῦ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἐπιθυμητικός	nmod	313
+1249	316	,	PUNCT	Z	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	,	nmod	313
+1249	317	καθʼ	ADP	R-		κατά	case	318
+1249	318	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	319
+1249	319	αἱροῦνται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	αἱρέω	ROOT	319
+1249	320	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	322
+1249	321	φαύλας	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	φαῦλος	amod	322
+1249	322	ἡδονάς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἡδονή	obj	319
+1249	323	.	PUNCT	Z		.	ROOT	323
+1249	324	περὶ	ADP	R-		περί	case	327
+1249	325	μὲν	ADV	Df		μέν	discourse	327
+1249	326	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	327
+1249	327	ἀκρατείας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀκρατεία	nmod	328
+1249	328	οὐδέν	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	οὐδείς	ROOT	328
+1249	329	·	PUNCT	Z		·	punct	328
+1249	330	οὕτω	ADV	Df		οὕτως	advmod	334
+1249	331	δὲ	ADV	Df		δέ	discourse	333
+1249	332	σὺ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	σύ	nsubj	333
+1249	333	δύνασαι	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	δύναμαι	ROOT	333
+1249	334	ὁρίζειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ὁρίζω	xcomp	333
+1249	335	.	PUNCT	Z		.	punct	333
+1249	336	ἀκράτεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀκράτεια	nsubj	339
+1249	337	δʼ	ADV	Df		δέ	discourse	339
+1249	338	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	339
+1249	339	κακία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	κακία	ROOT	339
+1249	340	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	341
+1249	341	ἐπιθυμητικοῦ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἐπιθυμητικός	nmod	339
+1249	342	,	PUNCT	Z	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	,	nmod	339
+1249	343	καθʼ	ADP	R-		κατά	case	344
+1249	344	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	345
+1249	345	παρασύρουσι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	παρασύρω	ROOT	345
+1249	346	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	347
+1249	347	ἀλογίᾳ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀλογία	obl	345
+1249	348	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	349
+1249	349	ἐπιθυμίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἐπιθυμία	obj	345
+1249	350	ὠθοῦσαν	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ὠθέω	advcl	345
+1249	351	ἐπὶ	ADP	R-		ἐπί	case	356
+1249	352	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	356
+1249	353	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	355
+1249	354	φαύλων	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	φαῦλος	amod	355
+1249	355	ἡδονῶν	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	ἡδονή	nmod	356
+1249	356	ἀπολαύσεις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἀπόλαυσις	obl	350
+1249	357	.	PUNCT	Z		.	punct	345
+1249	358	ἀδικία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀδικία	nsubj	361
+1249	359	δʼ	ADV	Df		δέ	discourse	361
+1249	360	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	361
+1249	361	κακία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	κακία	ROOT	361
+1249	362	ψυχῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ψυχή	nmod	361
+1249	363	,	PUNCT	Z	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	,	punct	361
+1249	364	καθʼ	ADP	R-		κατά	case	365
+1249	365	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	367
+1249	366	πλεονεκτικοὶ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	πλεονεκτικός	xcomp	367
+1249	367	γίνονται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	γίγνομαι	ROOT	367
+1249	368	παρὰ	ADP	R-		παρά	case	370
+1249	369	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	370
+1249	370	ἀξίαν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ἄξιος	obl	367
+1249	371	.	PUNCT	Z		.	punct	367
+1249	372	ἀνελευθερία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀνελευθερία	nsubj	375
+1249	373	δʼ	ADV	Df		δέ	discourse	375
+1249	374	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	375
+1249	375	κακία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	κακία	ROOT	375
+1249	376	ψυχῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ψυχή	nmod	375
+1249	377	,	PUNCT	Z	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	,	nmod	375
+1249	378	καθʼ	ADP	R-		κατά	case	379
+1249	379	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	380
+1249	380	ὀρέγονται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ὀρέγω	ROOT	380
+1249	381	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	383
+1249	382	πανταχόθεν	ADV	Df		πανταχόθεν	amod	383
+1249	383	κέρδους	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	κέρδος	iobj	380
+1249	384	.	PUNCT	Z		.	punct	380
+1249	385	μικροψυχία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μικροψυχία	nsubj	388
+1249	386	δʼ	ADV	Df		δέ	discourse	388
+1249	387	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	388
+1249	388	κακία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	κακία	ROOT	388
+1249	389	ψυχῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ψυχή	nmod	388
+1249	390	,	PUNCT	Z		,	appos	385
+1249	391	καθʼ	ADP	R-		κατά	case	392
+1249	392	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	393
+1249	393	ἀδύνατοί	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	ἀδύνατος	ROOT	393
+1249	394	εἰσι	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	393
+1249	395	φέρειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	φέρω	ccomp	393
+1249	396	εὐτυχίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	εὐτυχία	obj	395
+1249	397	καὶ	CCONJ	C-		καί	cc	396
+1249	398	ἀτυχίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀτυχία	conj	396
+1249	399	καὶ	CCONJ	C-		καί	cc	396
+1249	400	τιμὴν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	τιμή	conj	396
+1249	401	καὶ	CCONJ	C-		καί	cc	396
+1249	402	ἀτιμίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀτιμία	conj	396
+1249	403	.	PUNCT	Z		.	punct	393
+1249	404	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	409
+1249	405	δὲ	ADV	Df		δέ	discourse	409
+1249	406	φρονήσεώς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	φρόνησις	nmod	409
+1249	407	ἐστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	409
+1249	408	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	409
+1249	409	βουλεύσασθαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	βουλεύω	ROOT	409
+1249	410	,	PUNCT	Z		,	punct	409
+1249	411	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	412
+1249	412	κρῖναι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	κρίνω	ROOT	412
+1249	413	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	414
+1249	414	ἀγαθὰ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἀγαθός	obj	412
+1249	415	καὶ	CCONJ	C-		καί	cc	414
+1249	416	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	417
+1249	417	κακὰ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	κακός	conj	414
+1249	418	καὶ	CCONJ	C-		καί	cc	414
+1249	419	πάντα	DET	Px	Case=Acc|Gender=Neut|Number=Plur	πᾶς	det	423
+1249	420	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	423
+1249	421	ἐν	ADP	R-		ἐν	case	423
+1249	422	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	423
+1249	423	βίῳ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	βίος	conj	414
+1249	424	αἱρετὰ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	αἱρετός	xcomp	412
+1249	425	καὶ	CCONJ	C-		καί	cc	424
+1249	426	φευκτά	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	φευκτά	conj	424
+1249	427	,	PUNCT	Z		,	ROOT	427
+1249	428	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	429
+1249	429	χρῆσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	χράω	obj	456
+1249	430	πᾶσι	DET	Px	Case=Dat|Gender=Masc,Neut|Number=Plur	πᾶς	iobj	429
+1249	431	καλῶς	ADV	Df	Degree=Pos	καλῶς	advmod	430
+1249	432	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ	det	434
+1249	433	ὑπάρχουσιν	AUX	V-	Case=Dat|Gender=Masc,Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ὑπάρχω	acl	434
+1249	434	ἀγαθοῖς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	ἀγαθός	nmod	430
+1249	435	,	PUNCT	Z		,	cc	429
+1249	436	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	437
+1249	437	ὁμιλῆσαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ὁμιλέω	conj	429
+1249	438	ὀρθῶς	ADV	Df	Degree=Pos	ὀρθῶς	advmod	437
+1249	439	,	PUNCT	Z		,	cc	437
+1249	440	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	441
+1249	441	συνιδεῖν	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	συνοράω	conj	437
+1249	442	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	443
+1249	443	καιρούς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	καιρός	obj	441
+1249	444	,	PUNCT	Z		,	cc	441
+1249	445	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	446
+1249	446	ἀγχίνως	ADV	Df	Degree=Pos	ἀγχίνως	advmod	447
+1249	447	χρήσασθαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	χράω	conj	441
+1249	448	καὶ	CCONJ	C-		καί	cc	449
+1249	449	λόγῳ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	λόγος	obl	447
+1249	450	καὶ	CCONJ	C-		καί	cc	449
+1249	451	ἔργῳ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	ἔργον	conj	449
+1249	452	,	PUNCT	Z		,	cc	429
+1249	453	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	456
+1249	454	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	455
+1249	455	ἐμπειρίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἐμπειρία	obj	456
+1249	456	ἔχειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἔχω	ROOT	456
+1249	457	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	458
+1249	458	χρησίμων	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	χρήσιμος	nmod	429
+1249	459	πάντων	DET	Px	Case=Gen|Gender=Neut|Number=Plur	πᾶς	det	458
+1249	460	.	PUNCT	Z		.	punct	456
+1249	461	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	462
+1249	462	μνήμη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μνήμη	nsubj	475
+1249	463	δὲ	ADV	Df		δέ	discourse	475
+1249	464	καὶ	CCONJ	C-		καί	cc	462
+1249	465	ἐμπειρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἐμπειρία	dep	466
+1249	466	καὶ	CCONJ	C-		καί	dep	467
+1249	467	ἀγχίνοια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀγχίνοια	dep	472
+1249	468	ἤτοι	CCONJ	C-		ἤτοι	cc	472
+1249	469	ἀπὸ	ADP	R-		ἀπό	case	471
+1249	470	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	471
+1249	471	φρονήσεως	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	φρόνησις	nmod	472
+1249	472	ἑκάστη	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	ἕκαστος	dep	475
+1249	473	αὐτῶν	PRON	Pp	Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs	αὐτός	nmod	472
+1249	474	ἐστίν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	472
+1249	475	,	PUNCT	Z		,	ROOT	475
+1249	476	ἢ	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	ἤ	nsubj	477
+1249	477	παρέπεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	παρέπομαι	conj	475
+1249	478	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	479
+1249	479	φρονήσει	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	φρόνησις	iobj	477
+1249	480	·	PUNCT	Z		·	punct	475
+1249	481	ἢ	CCONJ	C-		ἤ	cc	486
+1249	482	τὰ	PRON	Pp	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	ὁ	nsubj	486
+1249	483	μὲν	ADV	Df		μέν	discourse	482
+1249	484	αὐτῶν	PRON	Pp	Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Prs	αὐτός	nmod	482
+1249	485	οἷον	ADV	Df		οἷος	advmod	486
+1249	486	συναίτια	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	συναίτιον	ROOT	486
+1249	487	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	488
+1249	488	φρονήσεώς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	φρονήσις	iobj	486
+1249	489	ἐστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	486
+1249	490	,	PUNCT	Z		,	punct	486
+1249	491	καθάπερ	ADV	Dq	PronType=Rel	καθάπερ	ROOT	491
+1249	492	ἐμπειρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἐμπειρία	nsubj	491
+1249	493	καὶ	CCONJ	C-		καί	cc	492
+1249	494	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	495
+1249	495	μνήμη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μνήμη	conj	492
+1249	496	,	PUNCT	Z		,	ROOT	496
+1249	497	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	500
+1249	498	δὲ	ADV	Df		δέ	discourse	500
+1249	499	οἷον	ADV	Df		οἷος	det	500
+1249	500	μέρη	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μέρος	nsubj	607
+1249	501	αὐτῆς	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	αὐτός	det	500
+1249	502	,	PUNCT	Z		,	orphan	500
+1249	503	οἷον	ADV	Df		οἷος	mark	504
+1249	504	εὐβουλία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	εὐβουλία	appos	502
+1249	505	καὶ	CCONJ	C-		καί	cc	504
+1249	506	ἀγχίνοια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀγχίνοια	conj	504
+1249	507	.	PUNCT	Z		.	punct	500
+1249	508	πραότητος	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	πραότητος	nmod	500
+1249	509	δʼ	ADV	Df		δέ	discourse	508
+1249	510	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	508
+1249	511	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	512
+1249	512	δύνασθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	δύναμαι	nsubj	508
+1249	513	φέρειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	φέρω	xcomp	512
+1249	514	μετρίως	ADV	Df	Degree=Pos	μετρίως	advmod	513
+1249	515	ἐγκλήματα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	ἔγκλημα	obj	513
+1249	516	καὶ	CCONJ	C-		καί	cc	515
+1249	517	ὀλιγωρίας	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ὀλιγωρία	conj	515
+1249	518	,	PUNCT	Z	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	,	orphan	500
+1249	519	καὶ	CCONJ	C-		καί	cc	518
+1249	520	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	523
+1249	521	μὴ	ADV	Df	Polarity=Neg	μή	advmod	523
+1249	522	ταχέως	ADV	Df	Degree=Pos	ταχέως	advmod	523
+1249	523	ὁρμᾶν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ὁρμάω	conj	518
+1249	524	ἐπὶ	ADP	R-		ἐπί	case	526
+1249	525	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	526
+1249	526	τιμωρίας	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	τιμωρία	obl	523
+1249	527	,	PUNCT	Z		,	punct	500
+1249	528	καὶ	CCONJ	C-		καί	cc	500
+1249	529	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	531
+1249	530	μὴ	ADV	Df	Polarity=Neg	μή	advmod	531
+1249	531	εὐκίνητον	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	εὐκίνητος	orphan	500
+1249	532	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	531
+1249	533	πρὸς	ADP	R-		πρός	case	535
+1249	534	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	535
+1249	535	ὀργάς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ὀργή	obl	531
+1249	536	,	PUNCT	Z		,	orphan	500
+1249	537	ἄπικρον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἄπικρος	orphan	500
+1249	538	δὲ	ADV	Df		δέ	discourse	537
+1249	539	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	540
+1249	540	ἤθει	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	ἠθέω	obl	537
+1249	541	καὶ	CCONJ	C-		καί	cc	537
+1249	542	ἀφιλόνεικον	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	ἀφιλόνεικος	conj	537
+1249	543	,	PUNCT	Z		,	orphan	500
+1249	544	ἔχοντα	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω	orphan	500
+1249	545	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	546
+1249	546	ἠρεμαῖον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἠρεμαῖος	obj	544
+1249	547	ἐν	ADP	R-		ἐν	case	549
+1249	548	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	549
+1249	549	ψυχῇ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ψυχή	nmod	546
+1249	550	καὶ	CCONJ	C-		καί	cc	546
+1249	551	στάσιμον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	στάσιμος	conj	546
+1249	552	.	PUNCT	Z		.	punct	500
+1249	553	ἀνδρείας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀνδρεία	nmod	500
+1249	554	δʼ	ADV	Df		δέ	discourse	553
+1249	555	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	553
+1249	556	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	557
+1249	557	δυσέκπληκτον	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	δυσέκπληκτος	nsubj	553
+1249	558	ὑπὸ	ADP	R-		ὑπό	case	559
+1249	559	φόβων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	φόβος	obl	557
+1249	560	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	559
+1249	561	περὶ	ADP	R-		περί	case	562
+1249	562	θάνατον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	θάνατος	nmod	559
+1249	563	,	PUNCT	Z		,	orphan	500
+1249	564	καὶ	CCONJ	C-		καί	cc	563
+1249	565	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	566
+1249	566	εὐθαρσῆ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	εὐθαρσῆ	conj	563
+1249	567	ἐν	ADP	R-		ἐν	case	569
+1249	568	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ	det	569
+1249	569	δεινοῖς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	δεινός	advmod	566
+1249	570	,	PUNCT	Z		,	orphan	500
+1249	571	καὶ	CCONJ	C-		καί	cc	570
+1249	572	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	573
+1249	573	εὔτολμον	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	εὔτολμος	conj	570
+1249	574	πρὸς	ADP	R-		πρός	case	576
+1249	575	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	576
+1249	576	κινδύνους	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	κίνδυνος	obl	573
+1249	577	,	PUNCT	Z		,	orphan	500
+1249	578	καὶ	CCONJ	C-		καί	cc	577
+1249	579	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	581
+1249	580	μᾶλλον	ADV	Df	Degree=Cmp	μᾶλλον	advmod	581
+1249	581	αἱρεῖσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	αἱρέω	conj	577
+1249	582	τεθνάναι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	θνῄσκω	xcomp	581
+1249	583	καλῶς	ADV	Df	Degree=Pos	καλῶς	advmod	582
+1249	584	ἢ	ADV	Df		ἤ	dep	582
+1249	585	αἰσχρῶς	ADV	Df	Degree=Pos	αἰσχρῶς	advmod	586
+1249	586	σωθῆναι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	σῴζω	ccomp	584
+1249	587	,	PUNCT	Z		,	orphan	500
+1249	588	καὶ	CCONJ	C-		καί	cc	587
+1249	589	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	591
+1249	590	νίκης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	νίκη	iobj	591
+1249	591	αἴτιον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	αἴτιος	conj	587
+1249	592	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	591
+1249	593	.	PUNCT	Z		.	punct	500
+1249	594	ἔτι	ADV	Df		ἔτι	advmod	596
+1249	595	δὲ	ADV	Df		δέ	discourse	596
+1249	596	ἀνδρείας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀνδρεία	nmod	500
+1249	597	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	596
+1249	598	καὶ	CCONJ	C-		καί	cc	600
+1249	599	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	600
+1249	600	πονεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	πονέω	nsubj	596
+1249	601	καὶ	CCONJ	C-		καί	cc	600
+1249	602	καρτερεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	καρτερέω	conj	600
+1249	603	καὶ	CCONJ	C-		καί	cc	600
+1249	604	αἱρεῖσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	αἱρέω	conj	600
+1249	605	ἀνδραγαθίζεσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	ἀνδραγαθίζομαι	xcomp	604
+1249	606	.	PUNCT	Z		.	punct	596
+1249	607	παρέπεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	παρέπομαι	ROOT	607
+1249	608	δὲ	ADV	Df		δέ	discourse	607
+1249	609	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	610
+1249	610	ἀνδρείᾳ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀνδρεία	iobj	607
+1249	611	καὶ	CCONJ	C-		καί	cc	610
+1249	612	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	613
+1249	613	εὐτολμία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	εὐτολμία	conj	610
+1249	614	καὶ	CCONJ	C-		καί	cc	610
+1249	615	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	616
+1249	616	εὐψυχία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	εὐψυχία	conj	610
+1249	617	καὶ	CCONJ	C-		καί	cc	610
+1249	618	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	619
+1249	619	θάρσος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	θάρσος	conj	610
+1249	620	καὶ	CCONJ	C-		καί	cc	610
+1249	621	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	622
+1249	622	θράσος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	θράσος	conj	610
+1249	623	,	PUNCT	Z		,	punct	607
+1249	624	ἔτι	ADV	Df		ἔτι	advmod	628
+1249	625	δὲ	ADV	Df		δέ	discourse	628
+1249	626	καὶ	ADV	Df		καί	advmod	628
+1249	627	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	628
+1249	628	φιλοπονία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	φιλοπονία	conj	607
+1249	629	καὶ	CCONJ	C-		καί	cc	628
+1249	630	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	631
+1249	631	καρτερία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	καρτερία	conj	628
+1249	632	.	PUNCT	Z		.	punct	607
+1249	633	σωφροσύνης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	σωφροσύνη	nmod	644
+1249	634	δʼ	ADV	Df		δέ	discourse	633
+1249	635	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	633
+1249	636	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	638
+1249	637	μὴ	ADV	Df	Polarity=Neg	μή	advmod	638
+1249	638	θαυμάζειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	θαυμάζω	nsubj	633
+1249	639	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	640
+1249	640	ἀπολαύσεις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἀπόλαυσις	obj	638
+1249	641	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	643
+1249	642	σωματικῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	σωματικός	amod	643
+1249	643	ἡδονῶν	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	ἡδονή	nmod	640
+1249	644	,	PUNCT	Z		,	ROOT	644
+1249	645	καὶ	CCONJ	C-		καί	cc	644
+1249	646	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	652
+1249	647	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	652
+1249	648	πάσης	DET	Px	Case=Gen|Gender=Fem|Number=Sing	πᾶς	det	649
+1249	649	ἀπολαύσεως	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀπόλαυσις	iobj	652
+1249	650	αἰσχρᾶς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	αἰσχρός	amod	651
+1249	651	ἡδονῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἡδονή	nmod	649
+1249	652	ἀνόρεκτον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἀνόρεκτος	conj	644
+1249	653	,	PUNCT	Z		,	punct	644
+1249	654	καὶ	CCONJ	C-		καί	cc	656
+1249	655	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	656
+1249	656	φοβεῖσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	φοβέω	ROOT	656
+1249	657	καὶ	CCONJ	C-		καί	cc	656
+1249	658	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	660
+1249	659	δικαίαν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	δίκαιος	amod	660
+1249	660	ἄδειαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἄδεια	conj	656
+1249	661	,	PUNCT	Z		,	conj	656
+1249	662	καὶ	CCONJ	C-		καί	cc	656
+1249	663	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	664
+1249	664	τετάσθαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	τείνω	conj	656
+1249	665	περὶ	ADP	R-		περί	case	667
+1249	666	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	667
+1249	667	βίον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	βίος	obl	664
+1249	668	ὁμοίως	ADV	Df		ὁμοίως	advmod	664
+1249	669	ἔν	ADP	R-		ἐν	case	671
+1249	670	τε	CCONJ	C-		τε	cc	671
+1249	671	μικροῖς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	μικρός	advmod	668
+1249	672	καὶ	CCONJ	C-		καί	cc	671
+1249	673	μεγάλοις	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	μέγας	conj	671
+1249	674	.	PUNCT	Z		.	punct	656
+1249	675	παρέπεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	παρέπομαι	ROOT	675
+1249	676	δὲ	ADV	Df		δέ	discourse	675
+1249	677	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	678
+1249	678	σωφροσύνῃ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	σωφροσύνη	iobj	675
+1249	679	εὐταξία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	εὐταξία	nsubj	675
+1249	680	,	PUNCT	Z		,	cc	679
+1249	681	κοσμιότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	κοσμιότης	conj	679
+1249	682	,	PUNCT	Z		,	cc	679
+1249	683	αἰδώς	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	αἰδώς	conj	679
+1249	684	,	PUNCT	Z		,	cc	679
+1249	685	εὐλάβεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	εὐλάβεια	conj	679
+1249	686	.	PUNCT	Z		.	punct	675
+1249	687	ἐγκρατείας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἐγκράτεια	ROOT	687
+1249	688	δʼ	ADV	Df		δέ	discourse	687
+1249	689	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	687
+1249	690	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	691
+1249	691	δύνασθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	δύναμαι	nsubj	687
+1249	692	κατασχεῖν	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	κατέχω	xcomp	691
+1249	693	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	694
+1249	694	λογισμῷ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	λογισμός	obl	692
+1249	695	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	696
+1249	696	ἐπιθυμίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἐπιθυμία	obj	692
+1249	697	ὁρμῶσαν	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ὁρμῶσαν	acl	696
+1249	698	ἐπὶ	ADP	R-		ἐπί	case	700
+1249	699	φαύλας	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	φαῦλος	amod	700
+1249	700	ἀπολαύσεις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἀπόλαυσις	obl	697
+1249	701	καὶ	CCONJ	C-		καί	cc	700
+1249	702	ἡδονάς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἡδονή	conj	700
+1249	703	,	PUNCT	Z		,	punct	687
+1249	704	καὶ	CCONJ	C-		καί	cc	706
+1249	705	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	706
+1249	706	καρτερεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	καρτερέω	ROOT	706
+1249	707	,	PUNCT	Z		,	punct	706
+1249	708	καὶ	CCONJ	C-		καί	ROOT	708
+1249	709	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	710
+1249	710	ὑπομονητικὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	ὑπομονητικός	ROOT	710
+1249	711	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	710
+1249	712	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	715
+1249	713	κατὰ	ADP	R-		κατά	case	714
+1249	714	φύσιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	φύσις	nmod	715
+1249	715	ἐνδείας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἔνδεια	iobj	710
+1249	716	καὶ	CCONJ	C-		καί	cc	715
+1249	717	λύπης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	λύπη	conj	715
+1249	718	.	PUNCT	Z		.	punct	710
+1249	719	δικαιοσύνης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	δικαιοσύνη	nmod	728
+1249	720	δʼ	ADV	Df		δέ	discourse	719
+1249	721	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	719
+1249	722	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	723
+1249	723	διανεμητικὸν	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	διανεμητικός	nsubj	719
+1249	724	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	723
+1249	725	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	727
+1249	726	κατʼ	ADP	R-		κατά	case	727
+1249	727	ἀξίαν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ἄξιος	nmod	723
+1249	728	,	PUNCT	Z		,	ROOT	728
+1249	729	καὶ	CCONJ	C-		καί	cc	728
+1249	730	σώζειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	σῴζω	conj	728
+1249	731	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	733
+1249	732	πάτρια	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	πάτριος	amod	733
+1249	733	ἔθη	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	ἔθος	obj	730
+1249	734	καὶ	CCONJ	C-		καί	cc	733
+1249	735	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	736
+1249	736	νόμιμα	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	νόμιμος	conj	733
+1249	737	,	PUNCT	Z		,	punct	728
+1249	738	καὶ	CCONJ	C-		καί	ROOT	738
+1249	739	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	740
+1249	740	σώζειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	σῴζω	ROOT	740
+1249	741	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	743
+1249	742	γεγραμμένους	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	γράφω	acl	743
+1249	743	νόμους	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	νόμος	obj	740
+1249	744	,	PUNCT	Z		,	cc	740
+1249	745	καὶ	CCONJ	C-		καί	cc	740
+1249	746	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	747
+1249	747	ἀληθεύειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀληθεύω	conj	740
+1249	748	ἐν	ADP	R-		ἐν	case	750
+1249	749	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	750
+1249	750	διαφέροντι	VERB	V-	Case=Dat|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	διαφέρω	obl	747
+1249	751	,	PUNCT	Z		,	ROOT	751
+1249	752	καὶ	CCONJ	C-		καί	ROOT	752
+1249	753	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	754
+1249	754	διαφυλάττειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	διαφυλάσσω	ROOT	754
+1249	755	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	756
+1249	756	ὁμολογίας	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ὁμολογία	obj	754
+1249	757	.	PUNCT	Z		.	ROOT	757
+1249	758	ἔστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	760
+1249	759	δὲ	ADV	Df		δέ	discourse	760
+1249	760	πρώτη	ADJ	Mo	Case=Nom|Gender=Fem|Number=Sing	πρῶτος	ROOT	760
+1249	761	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	762
+1249	762	δικαιοσυνῶν	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	δικαιοσυνή	nmod	760
+1249	763	πρὸς	ADP	R-		πρός	case	765
+1249	764	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	765
+1249	765	θεούς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	θεός	nmod	760
+1249	766	,	PUNCT	Z		,	punct	760
+1249	767	εἶτα	ADV	Df		εἶτα	advmod	769
+1249	768	πρὸς	ADP	R-		πρός	case	769
+1249	769	δαίμονας	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	δαίμων	ROOT	769
+1249	770	,	PUNCT	Z		,	ROOT	770
+1249	771	εἶτα	ADV	Df		εἶτα	advmod	773
+1249	772	πρὸς	ADP	R-		πρός	case	773
+1249	773	πατρίδα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	πατρίς	conj	770
+1249	774	καὶ	CCONJ	C-		καί	cc	773
+1249	775	γονεῖς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	γονεύς	conj	773
+1249	776	,	PUNCT	Z		,	ROOT	776
+1249	777	εἶτα	ADV	Df		εἶτα	advmod	780
+1249	778	πρὸς	ADP	R-		πρός	case	780
+1249	779	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	780
+1249	780	κατοιχομένους	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	κατοιχομένους	conj	776
+1249	781	·	PUNCT	Z		·	ROOT	781
+1249	782	ἐν	ADP	R-		ἐν	case	783
+1249	783	οἷς	PRON	Pr	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	ὅς	ROOT	783
+1249	784	ἐστὶν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	783
+1249	785	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	786
+1249	786	εὐσέβεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	εὐσέβεια	nsubj	783
+1249	787	,	PUNCT	Z		,	punct	783
+1249	788	ἤτοι	CCONJ	C-		ἤτοι	cc	789
+1249	789	μέρος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	μέρος	ROOT	789
+1249	790	οὖσα	AUX	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί	cop	789
+1249	791	δικαιοσύνης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	δικαιοσύνη	nmod	789
+1249	792	ἢ	CCONJ	C-		ἤ	cc	789
+1249	793	παρακολουθοῦσα	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	παρακολουμθάνω	conj	789
+1249	794	.	PUNCT	Z		.	punct	789
+1249	795	ἀκολουθεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀκολουθέω	ROOT	795
+1249	796	δὲ	ADV	Df		δέ	discourse	795
+1249	797	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	798
+1249	798	δικαιοσύνῃ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	δικαιοσύνη	iobj	795
+1249	799	καὶ	CCONJ	C-		καί	cc	798
+1249	800	ὁσιότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ὁσιότης	conj	798
+1249	801	καὶ	CCONJ	C-		καί	cc	798
+1249	802	ἀλήθεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀλήθεια	conj	798
+1249	803	καὶ	CCONJ	C-		καί	cc	798
+1249	804	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	805
+1249	805	πίστις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	πίστις	conj	798
+1249	806	καὶ	CCONJ	C-		καί	cc	798
+1249	807	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	808
+1249	808	μισοπονηρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μισοπονηρία	conj	798
+1249	809	.	PUNCT	Z		.	punct	795
+1249	810	ἐλευθεριότητος	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἐλευθεριότητος	nmod	820
+1249	811	δʼ	ADV	Df		δέ	discourse	810
+1249	812	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	810
+1249	813	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	814
+1249	814	προετικὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	προετικός	nsubj	810
+1249	815	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	814
+1249	816	χρημάτων	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	χρῆμα	iobj	814
+1249	817	εἰς	ADP	R-		εἰς	case	819
+1249	818	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	819
+1249	819	ἐπαινετά	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἐπαινετός	obl	814
+1249	820	,	PUNCT	Z		,	ROOT	820
+1249	821	καὶ	CCONJ	C-		καί	cc	820
+1249	822	δαψιλῆ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	δαψιλής	conj	820
+1249	823	ἐπὶ	ADP	R-		ἐπί	case	828
+1249	824	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	828
+1249	825	εἰς	ADP	R-		εἰς	case	827
+1249	826	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	827
+1249	827	δέοντα	VERB	V-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	δέω	obl	828
+1249	828	ἀναλωθῆναι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	ἀναλίσκω	advcl	822
+1249	829	,	PUNCT	Z		,	punct	820
+1249	830	καὶ	CCONJ	C-		καί	cc	832
+1249	831	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	832
+1249	832	βοηθητικὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	βοηθητικός	ROOT	832
+1249	833	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	832
+1249	834	ἐν	ADP	R-		ἐν	case	836
+1249	835	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	836
+1249	836	διαφόρῳ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	διάφορος	advmod	832
+1249	837	,	PUNCT	Z		,	conj	832
+1249	838	καὶ	CCONJ	C-		καί	cc	832
+1249	839	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	841
+1249	840	μὴ	ADV	Df	Polarity=Neg	μή	advmod	841
+1249	841	λαβεῖν	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λαμβάνω	conj	832
+1249	842	ὅθεν	ADV	Dq	PronType=Rel	ὅθεν	advmod	844
+1249	843	μὴ	ADV	Df	Polarity=Neg	μή	advmod	844
+1249	844	δεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ	advcl	841
+1249	845	.	PUNCT	Z		.	punct	832
+1249	846	ἔστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	853
+1249	847	δὲ	ADV	Df		δέ	discourse	853
+1249	848	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	849
+1249	849	ἐλευθέριος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἐλευθέριος	nsubj	853
+1249	850	καὶ	CCONJ	C-		καί	cc	852
+1249	851	περὶ	ADP	R-		περί	case	852
+1249	852	ἐσθῆτα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἐσθής	obl	853
+1249	853	καθαρὸς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	καθαρός	ROOT	853
+1249	854	καὶ	CCONJ	C-		καί	cc	852
+1249	855	περὶ	ADP	R-		περί	case	856
+1249	856	οἴκησιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	οἴκησις	conj	852
+1249	857	,	PUNCT	Z		,	punct	853
+1249	858	καὶ	CCONJ	C-		καί	cc	859
+1249	859	κατασκευαστικὸς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	κατασκευαστικός	ROOT	859
+1249	860	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	861
+1249	861	περιττῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	περισσός	iobj	859
+1249	862	καὶ	CCONJ	C-		καί	cc	861
+1249	863	καλῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	καλός	conj	861
+1249	864	καὶ	CCONJ	C-		καί	cc	859
+1249	865	διαγωγὴν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	διαγωγή	obj	866
+1249	866	ἐχόντων	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω	conj	859
+1249	867	ἡδεῖαν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ἡδύς	amod	865
+1249	868	ἄνευ	ADP	R-		ἄνευ	case	870
+1249	869	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	870
+1249	870	λυσιτελοῦντος	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	λυσιτελέω	obl	866
+1249	871	,	PUNCT	Z		,	iobj	859
+1249	872	καὶ	CCONJ	C-		καί	cc	859
+1249	873	θρεπτικὸς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	θρεπτικός	conj	859
+1249	874	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	875
+1249	875	ζῴων	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	ζῷον	iobj	873
+1249	876	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	878
+1249	877	ἴδιον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἴδιος	obj	878
+1249	878	ἐχόντων	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω	nmod	875
+1249	879	τι	DET	Px	Case=Acc|Gender=Neut|Number=Sing	τίς	det	878
+1249	880	ἢ	CCONJ	C-		ἤ	cc	878
+1249	881	θαυμαστόν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	θαυμαστός	conj	878
+1249	882	.	PUNCT	Z		.	punct	859
+1249	883	ἀκολουθεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀκολουθέω	ROOT	883
+1249	884	δὲ	ADV	Df		δέ	discourse	883
+1249	885	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	886
+1249	886	ἐλευθεριότητι	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἐλευθεριότης	iobj	883
+1249	887	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	888
+1249	888	ἤθους	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	ἦθος	nmod	886
+1249	889	ὑγρότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ὑγρότης	nsubj	883
+1249	890	καὶ	CCONJ	C-		καί	cc	889
+1249	891	εὐαγωγία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	εὐαγωγία	conj	889
+1249	892	καὶ	CCONJ	C-		καί	cc	889
+1249	893	φιλανθρωπία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	φιλανθρωπία	conj	889
+1249	894	καὶ	CCONJ	C-		καί	cc	889
+1249	895	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	897
+1249	896	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	897
+1249	897	ἐλεητικὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἐλεητικός	conj	889
+1249	898	καὶ	CCONJ	C-		καί	cc	897
+1249	899	φιλόφιλον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	φιλόφιλος	conj	897
+1249	900	καὶ	CCONJ	C-		καί	cc	897
+1249	901	φιλόξενον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	φιλόξενος	conj	897
+1249	902	καὶ	CCONJ	C-		καί	cc	897
+1249	903	φιλόκαλον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	φιλόκαλος	conj	897
+1249	904	.	PUNCT	Z		.	punct	883
+1249	905	μεγαλοψυχίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	μεγαλοψυχία	nmod	919
+1249	906	δʼ	ADV	Df		δέ	discourse	905
+1249	907	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	905
+1249	908	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	910
+1249	909	καλῶς	ADV	Df	Degree=Pos	καλῶς	advmod	910
+1249	910	ἐνεγκεῖν	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	φέρω	nsubj	905
+1249	911	καὶ	CCONJ	C-		καί	cc	912
+1249	912	εὐτυχίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	εὐτυχία	obj	910
+1249	913	καὶ	CCONJ	C-		καί	cc	912
+1249	914	ἀτυχίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀτυχία	conj	912
+1249	915	καὶ	CCONJ	C-		καί	cc	912
+1249	916	τιμὴν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	τιμή	conj	912
+1249	917	καὶ	CCONJ	C-		καί	cc	912
+1249	918	ἀτιμίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀτιμία	conj	912
+1249	919	,	PUNCT	Z		,	ROOT	919
+1249	920	καὶ	CCONJ	C-		καί	ROOT	920
+1249	921	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	922
+1249	922	θαυμάζειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	θαυμάζω	ROOT	922
+1249	923	μήτε	CCONJ	C-		μήτε	cc	924
+1249	924	τρυφὴν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	τρυφή	obj	922
+1249	925	μήτε	CCONJ	C-		μήτε	cc	924
+1249	926	θεραπείαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	θεραπεία	conj	924
+1249	927	μήτε	CCONJ	C-		μήτε	cc	924
+1249	928	ἐξουσίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἐξουσία	conj	924
+1249	929	μήτε	CCONJ	C-		μήτε	cc	924
+1249	930	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	931
+1249	931	νίκας	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	νίκη	conj	924
+1249	932	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	933
+1249	933	ἐναγωνίους	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	ἐναγωνίους	nmod	931
+1249	934	,	PUNCT	Z		,	ROOT	934
+1249	935	ἔχειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἔχω	conj	934
+1249	936	δέ	ADV	Df		δέ	discourse	935
+1249	937	τι	DET	Px	Case=Acc|Gender=Neut|Number=Sing	τίς	det	938
+1249	938	βάθος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	βάθος	obj	935
+1249	939	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	940
+1249	940	ψυχῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ψυχή	nmod	938
+1249	941	καὶ	CCONJ	C-		καί	cc	938
+1249	942	μέγεθος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	μέγεθος	conj	938
+1249	943	.	PUNCT	Z		.	punct	934
+1249	944	ἔστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	946
+1249	945	δὲ	ADV	Df		δέ	discourse	946
+1249	946	μεγαλόψυχος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	μεγαλόψυχος	ROOT	946
+1249	947	οὔθʼ	CCONJ	C-		οὔτε	cc	953
+1249	948	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	953
+1249	949	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	950
+1249	950	ζῆν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ζῶ	obj	953
+1249	951	περὶ	ADP	R-		περί	case	952
+1249	952	πολλοῦ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	πολύς	xcomp	953
+1249	953	ποιούμενος	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ποιέω	advcl	946
+1249	954	οὔθʼ	CCONJ	C-		οὔτε	cc	953
+1249	955	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	956
+1249	956	φιλόζωος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	φιλόζωος	conj	953
+1249	957	.	PUNCT	Z		.	punct	946
+1249	958	ἁπλοῦς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἁπλόος	ROOT	958
+1249	959	δὲ	ADV	Df		δέ	discourse	958
+1249	960	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	961
+1249	961	ἤθει	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	ἠθέω	obl	958
+1249	962	καὶ	CCONJ	C-		καί	cc	958
+1249	963	γενναῖος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	γενναῖος	conj	958
+1249	964	,	PUNCT	Z		,	punct	958
+1249	965	ἀδικεῖσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	ἀδικέω	xcomp	966
+1249	966	δυνάμενος	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	δύναμαι	ROOT	966
+1249	967	,	PUNCT	Z		,	dep	966
+1249	968	καὶ	CCONJ	C-		καί	cc	967
+1249	969	οὐ	ADV	Df	Polarity=Neg	οὐ	advmod	970
+1249	970	τιμωρητικός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	τιμωρητικός	conj	967
+1249	971	.	PUNCT	Z		.	ROOT	971
+1249	972	ἀκολουθεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀκολουθέω	ROOT	972
+1249	973	δὲ	ADV	Df		δέ	discourse	972
+1249	974	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	975
+1249	975	μεγαλοψυχίᾳ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	μεγαλοψυχία	iobj	972
+1249	976	ἁπλότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἁπλότης	nsubj	972
+1249	977	καὶ	CCONJ	C-		καί	cc	976
+1249	978	ἀλήθεια	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀλήθεια	conj	976
+1249	979	.	PUNCT	Z		.	punct	972
+1249	980	ἀφροσύνης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀφροσύνη	ROOT	980
+1249	981	δʼ	ADV	Df		δέ	discourse	980
+1249	982	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	980
+1249	983	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	984
+1249	984	κρίνειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	κρίνω	nsubj	980
+1249	985	κακῶς	ADV	Df	Degree=Pos	κακῶς	advmod	984
+1249	986	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	987
+1249	987	πράγματα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	πρᾶγμα	obj	984
+1249	988	,	PUNCT	Z		,	punct	980
+1249	989	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	990
+1249	990	βουλεύσασθαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	βουλεύω	ROOT	990
+1249	991	κακῶς	ADV	Df	Degree=Pos	κακῶς	advmod	990
+1249	992	,	PUNCT	Z		,	cc	990
+1249	993	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	994
+1249	994	ὁμιλῆσαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ὁμιλέω	conj	990
+1249	995	κακῶς	ADV	Df	Degree=Pos	κακῶς	advmod	994
+1249	996	,	PUNCT	Z		,	cc	990
+1249	997	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	998
+1249	998	χρήσασθαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	χράω	conj	990
+1249	999	κακῶς	ADV	Df	Degree=Pos	κακῶς	advmod	998
+1249	1000	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ	det	1002
+1249	1001	παροῦσιν	AUX	V-	Case=Dat|Gender=Masc,Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	πάρειμι	acl	1002
+1249	1002	ἀγαθοῖς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	ἀγαθός	iobj	998
+1249	1003	,	PUNCT	Z		,	cc	990
+1249	1004	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1006
+1249	1005	ψευδῶς	ADV	Df	Degree=Pos	ψευδής	advmod	1006
+1249	1006	δοξάζειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	δοξάζω	conj	990
+1249	1007	περὶ	ADP	R-		περί	case	1012
+1249	1008	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	1012
+1249	1009	εἰς	ADP	R-		εἰς	case	1011
+1249	1010	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	1011
+1249	1011	βίον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	βίος	nmod	1012
+1249	1012	καλῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	καλός	obl	1006
+1249	1013	καὶ	CCONJ	C-		καί	cc	1012
+1249	1014	ἀγαθῶν.παρακολουθεῖ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	ἀγαθῶν.παρακολουθέω	conj	1012
+1249	1015	δὲ	ADV	Df		δέ	discourse	1014
+1249	1016	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1017
+1249	1017	ἀφροσύνῃ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀφροσύνη	iobj	1014
+1249	1018	ἀπειρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀπειρία	nsubj	1006
+1249	1019	,	PUNCT	Z		,	cc	1018
+1249	1020	ἀμαθία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀμαθία	conj	1018
+1249	1021	,	PUNCT	Z		,	cc	1018
+1249	1022	ἀκρασία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀκρασία	conj	1018
+1249	1023	,	PUNCT	Z		,	cc	1018
+1249	1024	ἐπαριστερότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἐπαριστερότης	conj	1018
+1249	1025	,	PUNCT	Z		,	cc	1018
+1249	1026	ἀμνημοσύνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀμνημοσύνη	conj	1018
+1249	1027	.	PUNCT	Z		.	punct	990
+1249	1028	ὀργιλότητος	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ὀργιλότητος	nmod	1031
+1249	1029	δʼ	ADV	Df		δέ	discourse	1031
+1249	1030	ἐστὶν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1031
+1249	1031	εἴδη	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	εἶδος	nsubj	1033
+1249	1032	τρία	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τρεῖς	nummod	1031
+1249	1033	,	PUNCT	Z		,	ROOT	1033
+1249	1034	ἀκροχολία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀκροχολία	conj	1033
+1249	1035	πικρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	πικρία	conj	1034
+1249	1036	βαρυθυμία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	βαρυθυμία	conj	1034
+1249	1037	.	PUNCT	Z		.	punct	1033
+1249	1038	ἔστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1051
+1249	1039	δὲ	ADV	Df		δέ	discourse	1043
+1249	1040	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	1041
+1249	1041	ὀργίλου	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	ὀργίλου	obj	1044
+1249	1042	μὴ	ADV	Df	Polarity=Neg	μή	advmod	1043
+1249	1043	δύνασθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	δύναμαι	xcomp	1038
+1249	1044	φέρειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	φέρω	xcomp	1043
+1249	1045	μήτε	CCONJ	C-		μήτε	cc	1048
+1249	1046	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	1048
+1249	1047	μικρὰς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	μικρός	amod	1048
+1249	1048	ὀλιγωρήσεις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ὀλιγωρήσω	obj	1044
+1249	1049	μήτε	CCONJ	C-		μήτε	cc	1048
+1249	1050	ἐλαττώσεις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἐλασσόω	conj	1048
+1249	1051	,	PUNCT	Z		,	ROOT	1051
+1249	1052	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	1054
+1249	1053	δὲ	ADV	Df		δέ	discourse	1054
+1249	1054	κολαστικὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	κολαστικός	ROOT	1054
+1249	1055	καὶ	CCONJ	C-		καί	cc	1054
+1249	1056	τιμωρητικὸν	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	τιμωρητικός	conj	1054
+1249	1057	καὶ	CCONJ	C-		καί	cc	1056
+1249	1058	εὐκίνητον	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	εὐκίνητος	conj	1056
+1249	1059	πρὸς	ADP	R-		πρός	case	1060
+1249	1060	ὀργὴν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ὀργή	obl	1058
+1249	1061	καὶ	CCONJ	C-		καί	cc	1063
+1249	1062	ὑπὸ	ADP	R-		ὑπό	case	1063
+1249	1063	ἔργου	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	ἔργον	obl	1054
+1249	1064	καὶ	CCONJ	C-		καί	cc	1063
+1249	1065	ὑπὸ	ADP	R-		ὑπό	case	1066
+1249	1066	λόγου	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	λόγος	conj	1063
+1249	1067	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	1068
+1249	1068	τυχόντος	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc,Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	τυγχάνω	nmod	1066
+1249	1069	.	PUNCT	Z		.	punct	1054
+1249	1070	ἀκολουθεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀκολουθέω	ROOT	1070
+1249	1071	δὲ	ADV	Df		δέ	discourse	1070
+1249	1072	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1073
+1249	1073	ὀργιλότητι	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ὀργιλότης	iobj	1070
+1249	1074	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1075
+1249	1075	παροξυντικὸν	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	παροξυντικός	nsubj	1070
+1249	1076	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	1077
+1249	1077	ἤθους	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	ἦθος	nmod	1075
+1249	1078	καὶ	CCONJ	C-		καί	cc	1075
+1249	1079	εὐμετάβολον	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	εὐμετάβολος	conj	1075
+1249	1080	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	parataxis	1070
+1249	1081	καὶ	CCONJ	C-		καί	ROOT	1081
+1249	1082	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1083
+1249	1083	πικρολογία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	πικρολογία	nsubj	1081
+1249	1084	,	PUNCT	Z		,	ROOT	1084
+1249	1085	καὶ	CCONJ	C-		καί	cc	1084
+1249	1086	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1089
+1249	1087	ἐπὶ	ADP	R-		ἐπί	case	1088
+1249	1088	μικροῖς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	μικρός	advmod	1089
+1249	1089	λυπεῖσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	λυπέω	conj	1084
+1249	1090	,	PUNCT	Z		,	ROOT	1090
+1249	1091	καὶ	CCONJ	C-		καί	cc	1090
+1249	1092	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1094
+1249	1093	ταῦτα	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	οὗτος	obj	1094
+1249	1094	πάσχειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	πάσχω	conj	1090
+1249	1095	ταχέως	ADV	Df	Degree=Pos	ταχέως	advmod	1094
+1249	1096	καὶ	CCONJ	C-		καί	cc	1095
+1249	1097	παρὰ	ADP	R-		παρά	case	1099
+1249	1098	βραχὺν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	βραχύς	amod	1099
+1249	1099	καιρόν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	καιρός	conj	1095
+1249	1100	.	PUNCT	Z		.	ROOT	1100
+1249	1101	δειλίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	δειλία	ROOT	1101
+1249	1102	δʼ	ADV	Df		δέ	discourse	1101
+1249	1103	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1101
+1249	1104	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1109
+1249	1105	ὑπὸ	ADP	R-		ὑπό	case	1108
+1249	1106	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	1108
+1249	1107	τυχόντων	ADJ	V-	Case=Gen|Degree=Pos|Number=Plur	τυγχάνω	acl	1108
+1249	1108	φόβων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	φόβος	obl	1109
+1249	1109	εὐκίνητον	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	εὐκίνητος	nsubj	1101
+1249	1110	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	1109
+1249	1111	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	conj	1101
+1249	1112	καὶ	CCONJ	C-		καί	ROOT	1112
+1249	1113	μάλιστα	ADV	Df	Degree=Sup	μάλα	advmod	1116
+1249	1114	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	1116
+1249	1115	περὶ	ADP	R-		περί	case	1116
+1249	1116	θάνατον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	θάνατος	ROOT	1116
+1249	1117	καὶ	CCONJ	C-		καί	cc	1116
+1249	1118	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	1120
+1249	1119	σωματικὰς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	σωματικός	amod	1120
+1249	1120	πηρώσεις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	πηρώσω	conj	1116
+1249	1121	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	ROOT	1121
+1249	1122	καὶ	CCONJ	C-		καί	cc	1121
+1249	1123	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1124
+1249	1124	ὑπολαμβάνειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ὑπολαμβάνω	conj	1121
+1249	1125	κρεῖττον	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	κρείσσων	ccomp	1124
+1249	1126	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	1125
+1249	1127	ὁπωσοῦν	ADV	Df		ὁπωσοῦν	advmod	1128
+1249	1128	σωθῆναι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	σῴζω	ccomp	1125
+1249	1129	ἢ	ADV	Df		ἤ	advmod	1125
+1249	1130	τελευτῆσαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	τελευτάω	ccomp	1129
+1249	1131	καλῶς	ADV	Df	Degree=Pos	καλῶς	advmod	1130
+1249	1132	.	PUNCT	Z		.	ROOT	1132
+1249	1133	ἀκολουθεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀκολουθέω	ROOT	1133
+1249	1134	δὲ	ADV	Df		δέ	discourse	1133
+1249	1135	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1136
+1249	1136	δειλίᾳ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	δειλία	iobj	1133
+1249	1137	μαλακία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μαλακία	nsubj	1133
+1249	1138	,	PUNCT	Z		,	cc	1137
+1249	1139	ἀνανδρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀνανδρία	conj	1137
+1249	1140	,	PUNCT	Z		,	cc	1137
+1249	1141	ἀπονία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀπονία	conj	1137
+1249	1142	,	PUNCT	Z		,	cc	1137
+1249	1143	φιλοψυχία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	φιλοψυχία	conj	1137
+1249	1144	.	PUNCT	Z		.	punct	1133
+1249	1145	ὕπεστι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ὕπειμι	ROOT	1145
+1249	1146	δέ	ADV	Df		δέ	discourse	1145
+1249	1147	τις	DET	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	τίς	det	1148
+1249	1148	εὐλάβεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	εὐλάβεια	nsubj	1145
+1249	1149	καὶ	CCONJ	C-		καί	cc	1148
+1249	1150	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1151
+1249	1151	ἀφιλόνεικον	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἀφιλόνεικος	conj	1148
+1249	1152	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	1153
+1249	1153	ἤθους	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	ἦθος	nmod	1151
+1249	1154	.	PUNCT	Z		.	punct	1145
+1249	1155	ἀκολασίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀκολασία	ROOT	1155
+1249	1156	δʼ	ADV	Df		δέ	discourse	1155
+1249	1157	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1155
+1249	1158	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1159
+1249	1159	αἱρεῖσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	αἱρέω	nsubj	1155
+1249	1160	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	1161
+1249	1161	ἀπολαύσεις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἀπόλαυσις	obj	1159
+1249	1162	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	1163
+1249	1163	ἡδονῶν	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	ἡδονή	nmod	1161
+1249	1164	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	1165
+1249	1165	βλαβερῶν	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	βλαβερός	nmod	1163
+1249	1166	καὶ	CCONJ	C-		καί	cc	1165
+1249	1167	αἰσχρῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	αἰσχρός	conj	1165
+1249	1168	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	conj	1155
+1249	1169	καὶ	CCONJ	C-		καί	cc	1171
+1249	1170	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1171
+1249	1171	ὑπολαμβάνειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ὑπολαμβάνω	ROOT	1171
+1249	1172	εὐδαιμονεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εὐδαιμονέω	ccomp	1171
+1249	1173	μάλιστα	ADV	Df	Degree=Sup	μάλα	advmod	1172
+1249	1174	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	1178
+1249	1175	ἐν	ADP	R-		ἐν	case	1178
+1249	1176	ταῖς	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	1178
+1249	1177	τοιαύταις	DET	Pd	Case=Dat|Gender=Fem|Number=Plur	τοιοῦτος	det	1178
+1249	1178	ἡδοναῖς	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	ἡδονή	nsubj	1172
+1249	1179	ὄντας	AUX	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί	cop	1178
+1249	1180	,	PUNCT	Z		,	ccomp	1171
+1249	1181	καὶ	CCONJ	C-		καί	cc	1171
+1249	1182	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1183
+1249	1183	φιλογέλοιον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	φιλογέλοιος	conj	1171
+1249	1184	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	1183
+1249	1185	καὶ	CCONJ	C-		καί	cc	1183
+1249	1186	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1187
+1249	1187	φιλοσκώπτην	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	φιλοσκώπτη	conj	1183
+1249	1188	καὶ	CCONJ	C-		καί	cc	1187
+1249	1189	φιλευτράπελον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	φιλευτράπελος	conj	1187
+1249	1190	,	PUNCT	Z		,	ccomp	1171
+1249	1191	καὶ	CCONJ	C-		καί	cc	1190
+1249	1192	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1193
+1249	1193	ῥᾳδιουργὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	ῥᾳδιουργός	conj	1190
+1249	1194	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	1193
+1249	1195	ἐν	ADP	R-		ἐν	case	1197
+1249	1196	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ	det	1197
+1249	1197	λόγοις	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	λόγος	obl	1193
+1249	1198	καὶ	CCONJ	C-		καί	cc	1197
+1249	1199	ἐν	ADP	R-		ἐν	case	1201
+1249	1200	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ	det	1201
+1249	1201	ἔργοις	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	ἔργον	conj	1197
+1249	1202	.	PUNCT	Z		.	punct	1171
+1249	1203	ἀκολουθεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀκολουθέω	ROOT	1203
+1249	1204	δὲ	ADV	Df		δέ	discourse	1203
+1249	1205	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1206
+1249	1206	ἀκολασίᾳ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀκολασία	iobj	1203
+1249	1207	ἀταξία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀταξία	nsubj	1203
+1249	1208	,	PUNCT	Z		,	cc	1207
+1249	1209	ἀναίδεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀναίδεια	conj	1207
+1249	1210	,	PUNCT	Z		,	cc	1207
+1249	1211	ἀκοσμία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀκοσμία	conj	1207
+1249	1212	,	PUNCT	Z		,	cc	1207
+1249	1213	τρυφή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	τρυφή	conj	1207
+1249	1214	,	PUNCT	Z		,	cc	1207
+1249	1215	ῥᾳθυμία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ῥαθυμία	conj	1207
+1249	1216	,	PUNCT	Z		,	cc	1207
+1249	1217	ἀμέλεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀμέλεια	conj	1207
+1249	1218	,	PUNCT	Z		,	cc	1207
+1249	1219	ὀλιγωρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ὀλιγωρία	conj	1207
+1249	1220	,	PUNCT	Z		,	cc	1207
+1249	1221	ἔκλυσις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἔκλυσις	conj	1207
+1249	1222	.	PUNCT	Z		.	punct	1203
+1249	1223	ἀκρασίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀκρασία	ROOT	1223
+1249	1224	δʼ	ADV	Df		δέ	discourse	1223
+1249	1225	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1223
+1249	1226	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1234
+1249	1227	κωλύοντος	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κωλύω	advcl	1234
+1249	1228	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	1229
+1249	1229	λογισμοῦ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	λογισμός	nsubj	1227
+1249	1230	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	1231
+1249	1231	ἀπολαύσεις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἀπόλαυσις	obj	1234
+1249	1232	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	1233
+1249	1233	ἡδονῶν	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	ἡδονή	nmod	1231
+1249	1234	αἱρεῖσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	αἱρέω	ccomp	1223
+1249	1235	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	conj	1223
+1249	1236	καὶ	CCONJ	C-		καί	cc	1223
+1249	1237	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1238
+1249	1238	ὑπολαμβάνοντα	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ὑπολαμβάνω	conj	1223
+1249	1239	κρεῖττον	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	κρείσσων	ccomp	1238
+1249	1240	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	1239
+1249	1241	μὴ	ADV	Df	Polarity=Neg	μή	advmod	1242
+1249	1242	μετασχεῖν	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	μετέχω	xcomp	1238
+1249	1243	μὲν	ADV	Df		μέν	discourse	1242
+1249	1244	αὐτῶν	PRON	Pp	Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Prs	αὐτός	iobj	1242
+1249	1245	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	cc	1223
+1249	1246	μετέχειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	μετέχω	ROOT	1246
+1249	1247	δὲ	ADV	Df		δέ	discourse	1246
+1249	1248	μηδὲν	DET	Px	Case=Acc|Gender=Neut|Number=Sing	μηδείς	det	1249
+1249	1249	ἧττον	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	ἥσσων	advmod	1246
+1249	1250	,	PUNCT	Z	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	,	ROOT	1250
+1249	1251	καὶ	CCONJ	C-		καί	cc	1250
+1249	1252	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1253
+1249	1253	οἴεσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	οἴομαι	conj	1250
+1249	1254	μὲν	ADV	Df		μέν	discourse	1255
+1249	1255	δεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	δεῖ	xcomp	1253
+1249	1256	πράττειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	πράσσω	ccomp	1255
+1249	1257	καὶ	CCONJ	C-		καί	cc	1259
+1249	1258	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	1259
+1249	1259	καλὰ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	καλός	obj	1256
+1249	1260	καὶ	CCONJ	C-		καί	cc	1259
+1249	1261	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	1262
+1249	1262	συμφέροντα	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	συμφέρω	conj	1259
+1249	1263	,	PUNCT	Z		,	ROOT	1263
+1249	1264	ἀφίστασθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	ἀφίστημι	conj	1263
+1249	1265	δὲ	ADV	Df		δέ	discourse	1264
+1249	1266	αὐτῶν	PRON	Pp	Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Prs	αὐτός	iobj	1264
+1249	1267	διὰ	ADP	R-		διά	case	1269
+1249	1268	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	1269
+1249	1269	ἡδονάς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἡδονή	obl	1264
+1249	1270	.	PUNCT	Z		.	ROOT	1270
+1249	1271	ἀκολουθεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀκολουθέω	ROOT	1271
+1249	1272	δὲ	ADV	Df		δέ	discourse	1271
+1249	1273	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1274
+1249	1274	ἀκρασίᾳ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀκρασία	iobj	1271
+1249	1275	μαλακία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μαλακία	nsubj	1271
+1249	1276	καὶ	CCONJ	C-		καί	cc	1275
+1249	1277	μεταμέλεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μεταμέλεια	conj	1275
+1249	1278	καὶ	CCONJ	C-		καί	cc	1275
+1249	1279	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	1280
+1249	1280	πλεῖστα	ADJ	A-	Case=Nom|Degree=Sup|Gender=Neut|Number=Plur	πολύς	nsubj	1271
+1249	1281	ταὐτὰ	ADJ	Pd	Case=Nom|Gender=Neut|Number=Plur	αὐτός	nsubj	1271
+1249	1282	ἃ	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	ὅς	appos	1281
+1249	1283	καὶ	ADV	Df		καί	appos	1281
+1249	1284	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1285
+1249	1285	ἀκολασίᾳ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀκολασία	iobj	1271
+1249	1286	.	PUNCT	Z		.	punct	1271
+1249	1287	ἀδικίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀδικία	nmod	1292
+1249	1288	δʼ	ADV	Df		δέ	discourse	1287
+1249	1289	ἐστὶν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1287
+1249	1290	εἴδη	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	εἶδος	nsubj	1287
+1249	1291	τρία	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τρεῖς	nummod	1290
+1249	1292	,	PUNCT	Z		,	det	1293
+1249	1293	ἀσέβεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀσέβεια	ROOT	1293
+1249	1294	πλεονεξία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	πλεονεξία	conj	1293
+1249	1295	ὕβρις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ὕβρις	conj	1293
+1249	1296	.	PUNCT	Z		.	punct	1293
+1249	1297	ἀσέβεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀσέβεια	ROOT	1297
+1249	1298	μὲν	ADV	Df		μέν	discourse	1297
+1249	1299	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1302
+1249	1300	περὶ	ADP	R-		περί	case	1301
+1249	1301	θεοὺς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	θεός	nmod	1302
+1249	1302	πλημμέλεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	πλημμέλειος	nsubj	1297
+1249	1303	καὶ	CCONJ	C-		καί	cc	1302
+1249	1304	περὶ	ADP	R-		περί	case	1305
+1249	1305	δαίμονας	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	δαίμων	conj	1302
+1249	1306	ἢ	CCONJ	C-		ἤ	cc	1302
+1249	1307	καὶ	ADV	Df		καί	advmod	1310
+1249	1308	περὶ	ADP	R-		περί	case	1310
+1249	1309	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	1310
+1249	1310	κατοιχομένους	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	κατοιχομένους	conj	1302
+1249	1311	,	PUNCT	Z		,	punct	1297
+1249	1312	καὶ	CCONJ	C-		καί	cc	1314
+1249	1313	περὶ	ADP	R-		περί	case	1314
+1249	1314	γονεῖς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	γονεύς	ROOT	1314
+1249	1315	καὶ	CCONJ	C-		καί	cc	1314
+1249	1316	περὶ	ADP	R-		περί	case	1317
+1249	1317	πατρίδα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	πατρίς	conj	1314
+1249	1318	·	PUNCT	Z		·	ROOT	1318
+1249	1319	πλεονεξία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	πλεονεξία	nsubj	1324
+1249	1320	δὲ	ADV	Df		δέ	discourse	1319
+1249	1321	περὶ	ADP	R-		περί	case	1323
+1249	1322	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	1323
+1249	1323	συμβόλαια	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	συμβόλαιος	nmod	1319
+1249	1324	,	PUNCT	Z		,	ROOT	1324
+1249	1325	παρὰ	ADP	R-		παρά	case	1327
+1249	1326	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1327
+1249	1327	ἀξίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἄξιος	obl	1328
+1249	1328	αἱρουμένη	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	αἱρέω	advcl	1324
+1249	1329	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1330
+1249	1330	διάφορον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	διάφορος	obj	1328
+1249	1331	·	PUNCT	Z		·	punct	1324
+1249	1332	ὕβρις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ὕβρις	ROOT	1332
+1249	1333	δέ	ADV	Df		δέ	discourse	1332
+1249	1334	,	PUNCT	Z		,	advmod	1332
+1249	1335	καθʼ	ADP	R-		κατά	case	1336
+1249	1336	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	1340
+1249	1337	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	1338
+1249	1338	ἡδονὰς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἡδονή	obj	1340
+1249	1339	αὑτοῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ἑαυτοῦ	iobj	1340
+1249	1340	παρασκευάζουσιν	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	παρασκευάζουμι	acl	1334
+1249	1341	,	PUNCT	Z		,	advmod	1356
+1249	1342	εἰς	ADP	R-		εἰς	case	1343
+1249	1343	ὄνειδος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	ὄνειδος	obl	1344
+1249	1344	ἀγαγόντες	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ἄγω	advcl	1356
+1249	1345	ἑτέρους	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἕτερος	obj	1344
+1249	1346	,	PUNCT	Z		,	cc	1343
+1249	1347	ὅθεν	ADV	Dq	PronType=Rel	ὅθεν	advmod	1351
+1249	1348	Εὔηνος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Εὔηνος	nsubj	1351
+1249	1349	περὶ	ADP	R-		περί	case	1350
+1249	1350	αὐτῆς	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	αὐτός	obl	1351
+1249	1351	λέγει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω	acl	1346
+1249	1352	ἥτις	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	ὅστις	nsubj	1356
+1249	1353	κερδαίνουσʼ	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κερδαίνω	advcl	1356
+1249	1354	οὐδὲν	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	οὐδείς	obj	1353
+1249	1355	ὅμως	ADV	Df		ὅμως	advmod	1356
+1249	1356	ἀδικεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀδικέω	ROOT	1356
+1249	1357	.	PUNCT	Z		.	punct	1356
+1249	1358	ἔστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1361
+1249	1359	δὲ	ADV	Df		δέ	discourse	1358
+1249	1360	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1361
+1249	1361	ἀδικίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀδικία	ROOT	1361
+1249	1362	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1363
+1249	1363	παραβαίνειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	παραβαίνω	nsubj	1361
+1249	1364	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	1366
+1249	1365	πάτρια	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	πάτριος	amod	1366
+1249	1366	ἔθη	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	ἔθος	obj	1363
+1249	1367	καὶ	CCONJ	C-		καί	cc	1366
+1249	1368	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	1369
+1249	1369	νόμιμα	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	νόμιμος	conj	1366
+1249	1370	,	PUNCT	Z		,	punct	1361
+1249	1371	καὶ	CCONJ	C-		καί	ROOT	1371
+1249	1372	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1373
+1249	1373	ἀπειθεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀπειθέω	ROOT	1373
+1249	1374	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ	det	1375
+1249	1375	νόμοις	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	νόμος	iobj	1373
+1249	1376	καὶ	CCONJ	C-		καί	cc	1375
+1249	1377	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	1378
+1249	1378	ἄρχουσι	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	ἄρχων	conj	1375
+1249	1379	,	PUNCT	Z		,	det	1381
+1249	1380	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1381
+1249	1381	ψεύδεσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	ψεύδω	ROOT	1381
+1249	1382	,	PUNCT	Z		,	cc	1381
+1249	1383	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1384
+1249	1384	ἐπιορκεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐπιορκέω	conj	1381
+1249	1385	,	PUNCT	Z		,	cc	1381
+1249	1386	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1387
+1249	1387	παραβαίνειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	παραβαίνω	conj	1381
+1249	1388	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	1389
+1249	1389	ὁμολογίας	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ὁμολογία	obj	1387
+1249	1390	καὶ	CCONJ	C-		καί	cc	1389
+1249	1391	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	1392
+1249	1392	πίστεις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	πίστις	conj	1389
+1249	1393	.	PUNCT	Z		.	ROOT	1393
+1249	1394	ἀκολουθεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀκολουθέω	ROOT	1394
+1249	1395	δὲ	ADV	Df		δέ	discourse	1394
+1249	1396	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1397
+1249	1397	ἀδικίᾳ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀδικία	iobj	1394
+1249	1398	συκοφαντία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	συκοφαντία	nsubj	1394
+1249	1399	,	PUNCT	Z		,	cc	1398
+1249	1400	ἀλαζονεία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀλαζονεία	conj	1398
+1249	1401	,	PUNCT	Z		,	cc	1398
+1249	1402	φιλανθρωπία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	φιλανθρωπία	conj	1398
+1249	1403	προσποίητος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	προσποίητος	conj	1398
+1249	1404	,	PUNCT	Z		,	cc	1398
+1249	1405	κακοήθεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	κακοήθεια	conj	1398
+1249	1406	,	PUNCT	Z		,	cc	1398
+1249	1407	πανουργία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	πανουργία	conj	1398
+1249	1408	.	PUNCT	Z		.	punct	1394
+1249	1409	ἀνελευθερίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀνελευθερία	nmod	1412
+1249	1410	δʼ	ADV	Df		δέ	discourse	1412
+1249	1411	ἐστὶν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1412
+1249	1412	εἴδη	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	εἶδος	ROOT	1412
+1249	1413	τρία	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τρεῖς	nummod	1412
+1249	1414	,	PUNCT	Z		,	cc	1409
+1249	1415	αἰσχροκερδία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	αἰσχροκερδία	conj	1412
+1249	1416	φειδωλία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	φειδωλία	conj	1415
+1249	1417	κιμβεία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	κιμβεία	conj	1415
+1249	1418	.	PUNCT	Z		.	punct	1412
+1249	1419	αἰσχροκερδία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	αἰσχροκερδία	ROOT	1419
+1249	1420	μέν	ADV	Df		μέν	discourse	1419
+1249	1421	,	PUNCT	Z		,	advmod	1419
+1249	1422	καθʼ	ADP	R-		κατά	case	1423
+1249	1423	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	1424
+1249	1424	κερδαίνειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	κερδαίνω	xcomp	1425
+1249	1425	ζητοῦσι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ζητέω	acl	1419
+1249	1426	πανταχόθεν	ADV	Df		πανταχόθεν	advmod	1425
+1249	1427	,	PUNCT	Z		,	appos	1425
+1249	1428	καὶ	CCONJ	C-		καί	cc	1425
+1249	1429	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1430
+1249	1430	κέρδος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	κέρδος	obj	1435
+1249	1431	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1432
+1249	1432	αἰσχύνης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	αἰσχύνη	nmod	1430
+1249	1433	περὶ	ADP	R-		περί	case	1434
+1249	1434	πλείονος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	πολύς	xcomp	1435
+1249	1435	ποιοῦνται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ποιέω	conj	1425
+1249	1436	·	PUNCT	Z		·	punct	1419
+1249	1437	φειδωλία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	φειδωλία	ROOT	1437
+1249	1438	δʼ	ADV	Df		δέ	discourse	1437
+1249	1439	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1437
+1249	1440	καθʼ	ADP	R-		κατά	case	1441
+1249	1441	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	1443
+1249	1442	ἀδάπανοι	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	ἀδάπανος	xcomp	1443
+1249	1443	γίνονται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	γίγνομαι	acl	1437
+1249	1444	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	1445
+1249	1445	χρημάτων	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	χρῆμα	iobj	1443
+1249	1446	εἰς	ADP	R-		εἰς	case	1448
+1249	1447	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1448
+1249	1448	δέον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	δέον	obl	1443
+1249	1449	·	PUNCT	Z		·	punct	1437
+1249	1450	κιμβεία	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	κιμβεία	nsubj	1452
+1249	1451	δʼ	ADV	Df		δέ	discourse	1452
+1249	1452	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1463
+1249	1453	καθʼ	ADP	R-		κατά	case	1454
+1249	1454	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	1455
+1249	1455	δαπανῶσι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δαπανάω	acl	1450
+1249	1456	μέν	ADV	Df		μέν	discourse	1455
+1249	1457	,	PUNCT	Z		,	cc	1455
+1249	1458	κατὰ	ADP	R-		κατά	case	1459
+1249	1459	μικρὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	μικρός	conj	1454
+1249	1460	δὲ	ADV	Df		δέ	discourse	1459
+1249	1461	καὶ	CCONJ	C-		καί	cc	1459
+1249	1462	κακῶς	ADV	Df	Degree=Pos	κακῶς	conj	1459
+1249	1463	,	PUNCT	Z		,	nsubj:pass	1466
+1249	1464	καὶ	CCONJ	C-		καί	cc	1466
+1249	1465	πλέον	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	πολύς	advmod	1466
+1249	1466	βλάπτονται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	βλάπτω	ROOT	1466
+1249	1467	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1471
+1249	1468	μὴ	ADV	Df	Polarity=Neg	μή	advmod	1471
+1249	1469	κατὰ	ADP	R-		κατά	case	1470
+1249	1470	καιρὸν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	καιρός	obl	1471
+1249	1471	ποιεῖσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	ποιέω	advcl	1466
+1249	1472	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1473
+1249	1473	διάφορον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	διάφορος	obj	1471
+1249	1474	.	PUNCT	Z		.	punct	1466
+1249	1475	ἔστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1484
+1249	1476	δὲ	ADV	Df		δέ	discourse	1475
+1249	1477	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1478
+1249	1478	ἀνελευθερίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀνελευθερία	nmod	1483
+1249	1479	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1482
+1249	1480	περὶ	ADP	R-		περί	case	1481
+1249	1481	πλείστου	ADJ	A-	Case=Gen|Degree=Sup|Gender=Neut|Number=Sing	πολύς	xcomp	1482
+1249	1482	ποιεῖσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	ποιέω	nsubj	1475
+1249	1483	χρήματα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	χρῆμα	obj	1482
+1249	1484	,	PUNCT	Z		,	ROOT	1484
+1249	1485	καὶ	CCONJ	C-		καί	cc	1484
+1249	1486	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1489
+1249	1487	μηδὲν	DET	Px	Case=Acc|Gender=Neut|Number=Sing	μηδείς	det	1488
+1249	1488	ὄνειδος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	ὄνειδος	obj	1489
+1249	1489	ἡγεῖσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	ἡγέομαι	conj	1484
+1249	1490	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	1491
+1249	1491	ποιούντων	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ποιέω	xcomp	1489
+1249	1492	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1493
+1249	1493	κέρδος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	κέρδος	obj	1491
+1249	1494	,	PUNCT	Z		,	punct	1484
+1249	1495	βίος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	βίος	ROOT	1495
+1249	1496	θητικὸς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	θητικός	amod	1495
+1249	1497	καὶ	CCONJ	C-		καί	cc	1496
+1249	1498	δουλοπρεπὴς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	δουλοπρεπής	conj	1496
+1249	1499	καὶ	CCONJ	C-		καί	cc	1496
+1249	1500	ῥυπαρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ῥυπαρός	conj	1496
+1249	1501	,	PUNCT	Z		,	cc	1495
+1249	1502	φιλοτιμίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	φιλοτιμία	iobj	1505
+1249	1503	καὶ	CCONJ	C-		καί	cc	1502
+1249	1504	ἐλευθερίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἐλευθερία	conj	1502
+1249	1505	ἀλλότριος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἀλλότριος	conj	1495
+1249	1506	.	PUNCT	Z		.	punct	1495
+1249	1507	ἀκολουθεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀκολουθέω	ROOT	1507
+1249	1508	δὲ	ADV	Df		δέ	discourse	1507
+1249	1509	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1510
+1249	1510	ἀνελευθεριότητι	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀνελευθεριότης	iobj	1507
+1249	1511	μικρολογία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μικρολογία	nsubj	1507
+1249	1512	,	PUNCT	Z		,	cc	1511
+1249	1513	βαρυθυμία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	βαρυθυμία	conj	1511
+1249	1514	καὶ	CCONJ	C-		καί	cc	1511
+1249	1515	μικροψυχία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μικροψυχία	conj	1511
+1249	1516	,	PUNCT	Z		,	cc	1511
+1249	1517	ταπεινότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ταπεινότης	conj	1511
+1249	1518	,	PUNCT	Z		,	cc	1511
+1249	1519	ἀμετρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἀμετρία	conj	1511
+1249	1520	,	PUNCT	Z		,	cc	1511
+1249	1521	ἀγένεια	NOUN	A-	Case=Nom|Gender=Fem|Number=Sing	ἀγένεια	conj	1511
+1249	1522	,	PUNCT	Z		,	cc	1511
+1249	1523	μισανθρωπία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μισανθρωπία	conj	1511
+1249	1524	.	PUNCT	Z		.	punct	1507
+1249	1525	μικροψυχίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	μικροψυχία	ROOT	1525
+1249	1526	δʼ	ADV	Df		δέ	discourse	1525
+1249	1527	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1525
+1249	1528	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1537
+1249	1529	μήτε	CCONJ	C-		μήτε	cc	1530
+1249	1530	τιμὴν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	τιμή	obj	1538
+1249	1531	μήτε	CCONJ	C-		μήτε	cc	1530
+1249	1532	ἀτιμίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀτιμία	conj	1530
+1249	1533	μήτε	CCONJ	C-		μήτε	cc	1530
+1249	1534	εὐτυχίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	εὐτυχία	conj	1530
+1249	1535	μήτε	CCONJ	C-		μήτε	cc	1530
+1249	1536	ἀτυχίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀτυχία	conj	1530
+1249	1537	δύνασθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	δύναμαι	nsubj	1525
+1249	1538	φέρειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	φέρω	xcomp	1537
+1249	1539	,	PUNCT	Z		,	conj	1537
+1249	1540	ἀλλὰ	CCONJ	C-		ἀλλά	cc	1537
+1249	1541	τιμώμενον	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	τιμάω	advcl	1543
+1249	1542	μὲν	ADV	Df		μέν	discourse	1543
+1249	1543	χαυνοῦσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	χαυνοῦσθαι	conj	1537
+1249	1544	,	PUNCT	Z		,	punct	1525
+1249	1545	μικρὰ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	μικρός	obj	1547
+1249	1546	δὲ	ADV	Df		δέ	discourse	1548
+1249	1547	εὐτυχήσαντα	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	εὐτυχέω	advcl	1548
+1249	1548	ὑπεξαίρεσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	ὑπεξαίρω	ROOT	1548
+1249	1549	,	PUNCT	Z		,	punct	1548
+1249	1550	ἀτιμίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀτιμία	obj	1556
+1249	1551	δὲ	ADV	Df		δέ	discourse	1556
+1249	1552	μηδὲ	CCONJ	C-		μηδέ	cc	1556
+1249	1553	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1554
+1249	1554	ἐλαχίστην	ADJ	A-	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	ἐλάχιστος	obj	1555
+1249	1555	ἐνεγκεῖν	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	φέρω	xcomp	1556
+1249	1556	δύνασθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	δύναμαι	ROOT	1556
+1249	1557	,	PUNCT	Z		,	punct	1556
+1249	1558	ἀπότευγμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	ἀπότευγμα	obj	1563
+1249	1559	δʼ	ADV	Df		δέ	discourse	1563
+1249	1560	ἄτην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἄτη	obj	1563
+1249	1561	καὶ	CCONJ	C-		καί	cc	1560
+1249	1562	ἀτυχίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀτυχία	conj	1560
+1249	1563	κρίνειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	κρίνω	ROOT	1563
+1249	1564	μεγάλην	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	μέγας	amod	1558
+1249	1565	,	PUNCT	Z		,	acl	1558
+1249	1566	ὀδύρεσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	ὀδύρομαι	conj	1563
+1249	1567	δʼ	ADV	Df		δέ	discourse	1566
+1249	1568	ἐπὶ	ADP	R-		ἐπί	case	1569
+1249	1569	πᾶσι	ADJ	Px	Case=Dat|Gender=Neut|Number=Plur	πᾶς	obl	1566
+1249	1570	καὶ	CCONJ	C-		καί	cc	1566
+1249	1571	δυσφορεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	δυσφορέω	conj	1566
+1249	1572	.	PUNCT	Z		.	punct	1563
+1249	1573	ἔτι	ADV	Df		ἔτι	advmod	1575
+1249	1574	δὲ	ADV	Df		δέ	discourse	1575
+1249	1575	τοιοῦτός	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	τοιοῦτος	ROOT	1575
+1249	1576	ἐστιν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1575
+1249	1577	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	1578
+1249	1578	μικρόψυχος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	μικρόψυχος	nsubj	1575
+1249	1579	οἷος	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	οἷος	nsubj	1583
+1249	1580	πάντα	DET	Px	Case=Acc|Gender=Neut|Number=Plur	πᾶς	det	1582
+1249	1581	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	1582
+1249	1582	ὀλιγωρήματα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	ὀλιγωρέσμη	obj	1583
+1249	1583	καλεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	καλέω	acl	1578
+1249	1584	ὕβριν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ὕβρις	xcomp	1583
+1249	1585	καὶ	CCONJ	C-		καί	cc	1584
+1249	1586	ἀτιμίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀτιμία	conj	1584
+1249	1587	,	PUNCT	Z		,	punct	1575
+1249	1588	καὶ	CCONJ	C-		καί	ROOT	1588
+1249	1589	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	1594
+1249	1590	διʼ	ADP	R-		διά	case	1591
+1249	1591	ἄγνοιαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἄγνοια	obl	1594
+1249	1592	ἢ	CCONJ	C-		ἤ	cc	1591
+1249	1593	λήθην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	λήθη	conj	1591
+1249	1594	γιγνόμενα	VERB	V-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	γίγνομαι	ROOT	1594
+1249	1595	.	PUNCT	Z		.	ROOT	1595
+1249	1596	ἀκολουθεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀκολουθέω	ROOT	1596
+1249	1597	δὲ	ADV	Df		δέ	discourse	1596
+1249	1598	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1599
+1249	1599	μικροψυχίᾳ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	μικροψυχία	iobj	1596
+1249	1600	μικρολογία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μικρολογία	nsubj	1596
+1249	1601	,	PUNCT	Z		,	cc	1600
+1249	1602	μεμψιμοιρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	μεμψιμοιρία	conj	1600
+1249	1603	,	PUNCT	Z		,	cc	1600
+1249	1604	δυσελπιστία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	δυσελπιστία	conj	1600
+1249	1605	,	PUNCT	Z		,	cc	1600
+1249	1606	ταπεινότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ταπεινότης	conj	1600
+1249	1607	.	PUNCT	Z		.	punct	1596
+1249	1608	καθόλου	ADV	Df		καθόλου	advmod	1615
+1249	1609	δὲ	ADV	Df		δέ	discourse	1615
+1249	1610	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1612
+1249	1611	μὲν	ADV	Df		μέν	discourse	1612
+1249	1612	ἀρετῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀρετή	nmod	1618
+1249	1613	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1612
+1249	1614	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1615
+1249	1615	ποιεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω	ROOT	1615
+1249	1616	σπουδαίαν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	σπουδαῖος	xcomp	1615
+1249	1617	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1618
+1249	1618	διάθεσιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	διάθεσις	obj	1615
+1249	1619	περὶ	ADP	R-		περί	case	1621
+1249	1620	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1621
+1249	1621	ψυχήν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ψυχή	nmod	1618
+1249	1622	,	PUNCT	Z		,	iobj	1627
+1249	1623	ἠρεμαίαις	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	ἠρεμαῖα	amod	1626
+1249	1624	καὶ	CCONJ	C-		καί	cc	1623
+1249	1625	τεταγμέναις	VERB	V-	Aspect=Perf|Case=Dat|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	τάσσω	acl	1626
+1249	1626	κινήσεσι	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	κίνησις	iobj	1627
+1249	1627	χρωμένην	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	χράω	xcomp	1615
+1249	1628	,	PUNCT	Z		,	cc	1615
+1249	1629	συμφωνοῦσαν	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	συμφωνέω	xcomp	1615
+1249	1630	κατὰ	ADP	R-		κατά	case	1633
+1249	1631	πάντα	DET	Px	Case=Acc|Gender=Neut|Number=Plur	πᾶς	det	1633
+1249	1632	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	1633
+1249	1633	μέρη	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μέρος	obl	1629
+1249	1634	·	PUNCT	Z		·	punct	1615
+1249	1635	διὸ	ADV	Df		διό	advmod	1637
+1249	1636	καὶ	ADV	Df		καί	advmod	1637
+1249	1637	δοκεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δοκέω	ROOT	1637
+1249	1638	παράδειγμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	παράδειγμα	xcomp	1637
+1249	1639	πολιτείας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	πολιτεία	nmod	1638
+1249	1640	ἀγαθῆς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	ἀγαθός	amod	1639
+1249	1641	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	1638
+1249	1642	ψυχῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ψυχή	nmod	1638
+1249	1643	σπουδαία	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	σπουδαῖος	amod	1644
+1249	1644	διάθεσις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	διάθεσις	nsubj	1638
+1249	1645	.	PUNCT	Z		.	punct	1637
+1249	1646	ἔστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1648
+1249	1647	δὲ	ADV	Df		δέ	discourse	1646
+1249	1648	ἀρετῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀρετή	ROOT	1648
+1249	1649	καὶ	CCONJ	C-		καί	cc	1651
+1249	1650	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1651
+1249	1651	εὐεργετεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εὐεργετέω	ccomp	1648
+1249	1652	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	1653
+1249	1653	ἀξίους	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἄξιος	obj	1651
+1249	1654	,	PUNCT	Z		,	punct	1648
+1249	1655	καὶ	CCONJ	C-		καί	ROOT	1655
+1249	1656	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1657
+1249	1657	φιλεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	φιλέω	ROOT	1657
+1249	1658	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	1659
+1249	1659	ἀγαθούς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἀγαθός	obj	1657
+1249	1660	,	PUNCT	Z		,	cc	1657
+1249	1661	καὶ	CCONJ	C-		καί	cc	1657
+1249	1662	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	1664
+1249	1663	μήτε	CCONJ	C-		μήτε	cc	1664
+1249	1664	κολαστικὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	κολαστικός	conj	1657
+1249	1665	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	1664
+1249	1666	μήτε	CCONJ	C-		μήτε	cc	1664
+1249	1667	τιμωρητικόν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	τιμωρητικός	conj	1664
+1249	1668	,	PUNCT	Z		,	cc	1664
+1249	1669	ἀλλὰ	CCONJ	C-		ἀλλά	cc	1664
+1249	1670	ἵλεων	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	ἵλαος	conj	1664
+1249	1671	καὶ	CCONJ	C-		καί	cc	1670
+1249	1672	εὐμενικὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	εὐμενικός	conj	1670
+1249	1673	καὶ	CCONJ	C-		καί	cc	1670
+1249	1674	συγγνωμονικόν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	συγγνωμονικός	conj	1670
+1249	1675	.	PUNCT	Z		.	ROOT	1675
+1249	1676	ἀκολουθεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀκολουθέω	ROOT	1676
+1249	1677	δὲ	ADV	Df		δέ	discourse	1676
+1249	1678	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1679
+1249	1679	ἀρετῇ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀρετή	iobj	1676
+1249	1680	χρηστότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	χρηστότης	nsubj	1676
+1249	1681	,	PUNCT	Z		,	cc	1680
+1249	1682	ἐπιείκεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἐπιείκεια	conj	1680
+1249	1683	,	PUNCT	Z		,	cc	1680
+1249	1684	εὐγνωμοσύνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	εὐγνωμοσύνη	conj	1680
+1249	1685	,	PUNCT	Z		,	cc	1680
+1249	1686	ἐλπὶς	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἐλπίς	conj	1680
+1249	1687	ἀγαθή	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	ἀγαθός	amod	1686
+1249	1688	.	PUNCT	Z		.	punct	1676
+1249	1689	ἔτι	ADV	Df		ἔτι	advmod	1693
+1249	1690	δὲ	ADV	Df		δέ	discourse	1693
+1249	1691	καὶ	ADV	Df		καί	advmod	1693
+1249	1692	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	1693
+1249	1693	τοιαῦτα	ADJ	Pd	Case=Nom|Gender=Neut|Number=Plur	τοιοῦτος	nsubj	1695
+1249	1694	οἷον	ADV	Df		οἷος	discourse	1695
+1249	1695	φίλοικον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	φίλοικος	ROOT	1695
+1249	1696	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	1695
+1249	1697	καὶ	CCONJ	C-		καί	cc	1695
+1249	1698	φιλόφιλον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	φιλόφιλος	conj	1695
+1249	1699	,	PUNCT	Z		,	cc	1695
+1249	1700	φιλέταιρον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	φιλέταιρος	conj	1695
+1249	1701	,	PUNCT	Z		,	cc	1695
+1249	1702	φιλόξενον	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	φιλόξενος	conj	1695
+1249	1703	,	PUNCT	Z		,	cc	1695
+1249	1704	φιλάνθρωπον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	φιλάνθρωπον	conj	1695
+1249	1705	καὶ	CCONJ	C-		καί	cc	1695
+1249	1706	φιλόκαλον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	φιλόκαλος	conj	1695
+1249	1707	·	PUNCT	Z		·	punct	1695
+1249	1708	ἃ	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	ὅς	nsubj	1712
+1249	1709	δὴ	ADV	Df		δή	discourse	1712
+1249	1710	πάντα	DET	Px	Case=Nom|Gender=Neut|Number=Plur	πᾶς	det	1708
+1249	1711	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	1712
+1249	1712	ἐπαινουμένων	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	ἐπαινέω	ROOT	1712
+1249	1713	ἐστίν	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1712
+1249	1714	.	PUNCT	Z		.	punct	1712
+1249	1715	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	1720
+1249	1716	δὲ	ADV	Df		δέ	discourse	1720
+1249	1717	κακίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	κακία	nmod	1720
+1249	1718	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	1720
+1249	1719	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	1720
+1249	1720	ἐναντία	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ἐναντίος	ROOT	1720
+1249	1721	.	PUNCT	Z		.	punct	1720

@@ -1,0 +1,69 @@
+1	0	ἄρϲην	NOUN	Nb		ἄρϲην	ROOT	0
+1	1	·	PUNCT	Z		·	punct	0
+1	2	παρὰ	ADP	R-		παρά	case	4
+1	3	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	4
+1	4	ἄρδω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἄρδω	ROOT	4
+1	5	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	6
+1	6	ποτίζω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ποτίζω	appos	4
+1	7	καὶ	CCONJ	C-		καί	cc	4
+1	8	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	9
+1	9	μετεγχέω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	μετεγχέω	conj	4
+1	10	·	PUNCT	Z		·	punct	4
+1	11	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	13
+1	12	γὰρ	ADV	Df		γάρ	discourse	16
+1	13	ἀνὴρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	ἀνήρ	nsubj	16
+1	14	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	15
+1	15	γυναικὶ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	γυνή	iobj	16
+1	16	ἐπαρδεύει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐπαρδεύω	ROOT	16
+1	17	.	PUNCT	Z		.	punct	16
+1	18	ἄρδω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἄρδω	ROOT	18
+1	19	ἄρϲω	VERB	Ne	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἄρϲω	vocative	18
+1	20	ἄρϲην	PROPN	Ne		ἄρϲην	vocative	18
+1	21	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	22
+1	22	ἄρδων	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἄρδω	appos	18
+1	23	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	24
+1	24	θήλειαν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	θῆλυς	obj	22
+1	25	.	PUNCT	Z		.	punct	18
+1	26	καὶ	CCONJ	C-		καί	cc	31
+1	27	γὰρ	ADV	Df		γάρ	discourse	31
+1	28	διὰ	ADP	R-		διά	case	29
+1	29	τοῦτο	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	οὗτος	obl	31
+1	30	πόϲιϲ	NOUN	Ne		πόϲιϲ	xcomp	31
+1	31	λέγεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	λέγω	ROOT	31
+1	32	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	33
+1	33	ἀνὴρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	ἀνήρ	nsubj:pass	31
+1	34	παρὰ	ADP	R-		παρά	case	36
+1	35	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	36
+1	36	ποτίζεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ποτίζέω	obl	31
+1	37	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	38
+1	38	γονῇ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	γονή	iobj	36
+1	39	.	PUNCT	Z		.	punct	31
+1	40	ἢ	CCONJ	C-		ἤ	ROOT	40
+1	41	παρὰ	ADP	R-		παρά	case	43
+1	42	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	43
+1	43	ἔρδω	NOUN	Nb		ἔρδω	obl	40
+1	44	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	45
+1	45	πράττω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	πράσσων	conj	43
+1	46	·	PUNCT	Z		·	punct	40
+1	47	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	48
+1	48	μέλλων	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	μέλλω	nsubj	49
+1	49	ἔρϲω	VERB	Ne	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἔρϲω	ROOT	49
+1	50	καὶ	CCONJ	C-		καί	cc	49
+1	51	ἄρϲην	PROPN	Ne		ἄρϲην	conj	49
+1	52	ἐξ	ADP	R-		ἐκ	case	53
+1	53	αὐτοῦ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός	det	51
+1	54	,	PUNCT	Z		,	ROOT	54
+1	55	τουτέϲτιν	NOUN	Ne		τουτέϲτις	ROOT	55
+1	56	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	57
+1	57	πρακτικόϲ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	πρακτικόϲ	appos	55
+1	58	.	PUNCT	Z		.	ROOT	58
+1	59	οὕτωϲ	ADV	Df		οὕτωϲ	ROOT	59
+1	60	Ἡρωδιανὸϲ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ἡρωδιανὸϲ	nmod	59
+1	61	ἐν	ADP	R-		ἐν	case	63
+1	62	τῳ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	τις	det	63
+1	63	περὶ	ADP	R-		περί	dep	59
+1	64	.	PUNCT	Z		.	punct	59
+1	65	γάμου	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	γάμος	ROOT	65
+1	66	καὶ	CCONJ	C-		καί	cc	65
+1	67	ϲυμβιώϲεωϲ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	ϲυμβιώϲεωϲ	conj	65
+1	68	.	PUNCT	Z		.	punct	65
